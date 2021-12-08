@@ -198,11 +198,19 @@ async function showInforForOnePokemon(
 }
 
 // Option
-app.handle('option', (conv) => {
-  const selectedOption = conv.session.params.prompt_option
-    .toLowerCase()
-    .replace(/_/g, ' #');
-  conv.add(`You selected ${selectedOption}.`);
+app.handle('option', async (conv) => {
+  const pokemon = conv.session.params.prompt_option.toLowerCase();
+  const locale = conv.user.locale;
+
+  const p = await getPokemon(pokemon);
+  const pokemonId = p.data.id;
+  const pokemonIdString = String(pokemonId).padStart(3, '0');
+
+
+  const specie = await getPokemonSpecie(pokemonId);
+
+
+  await showInforForOnePokemon(conv, specie, p, pokemonIdString, locale);
 });
 
 app.handle('GetEvolutionHandler', async (conv) => {
@@ -253,8 +261,8 @@ app.handle('GetEvolutionHandler', async (conv) => {
       );
 
       evolutionsItems[index] = {
-        name: 'ITEM_' + index,
-        synonyms: ['Item ' + index],
+        name: element,
+        synonyms: ['Item ' + index, element],
         display: {
           title: capitalize(element),
           description: descriptionStringItem,
@@ -267,7 +275,7 @@ app.handle('GetEvolutionHandler', async (conv) => {
         },
       };
       evolutionsKeys[index] = {
-        key: 'ITEM_' + index,
+        key: element,
       };
     }
 

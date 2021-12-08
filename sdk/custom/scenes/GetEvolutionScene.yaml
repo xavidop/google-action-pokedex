@@ -1,3 +1,7 @@
+conditionalEvents:
+- condition: scene.slots.status == "FINAL"
+  handler:
+    webhookHandler: option
 slots:
 - name: pokemon
   required: true
