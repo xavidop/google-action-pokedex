@@ -1,0 +1,9 @@
+handler:
+  staticPrompt:
+    candidates:
+    - promptResponse:
+        firstSimple:
+          variants:
+          - speech: Perdona, no te he escuchado. ¿Puedes repetirlo otra vez?
+            text: Perdona, no te he escuchado. ¿Puedes repetirlo otra vez?
+transitionToScene: actions.scene.END_CONVERSATION

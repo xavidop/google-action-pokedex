@@ -1,0 +1,35 @@
+category: GAMES_AND_TRIVIA
+defaultLocale: es
+localizedSettings:
+  developerEmail: xavierportillaedo@gmail.com
+  developerName: Xavier Portilla Edo
+  displayName: Poke mundo
+  fullDescription: |-
+    Esta Google Action es no oficial.
+
+    Con esta  Google Action puedes averiguar toda la información de los Pokémons, evoluciones, peso, altura e información general sobre ellos. Adéntrate en el mundo Pokémon y conviértete en el mejor entrenador gracias a esta  Google Action! La única que te detecta de manera correcta los 809 Pokémons! Pruébala!
+
+    ¿CÓMO FUNCIONA?
+
+    Puedes pedirle a esta Google Action cosas como:
+
+    1. Ok Google, ¿Que Pokémon es Pikachu?
+    2.  Ok Google, Dime las evoluciones de Charmander
+    3.  Ok Google, ¿Cómo suena Pikachu?
+    3.  Ok Google, ¿Qué tipo es Pikachu?
+    4.  Ok Google, ¿Cuánto pesa Ditto?
+    5.  Ok Google, ¿Cuánto mide Charizard?
+  privacyPolicyUrl: https://www.voiceflow.com/privacy
+  pronunciation: Poke mundo
+  sampleInvocations:
+  - Hablar con Poke mundo
+  shortDescription: Toda la información de tus Pokémons favoritos en tu dispositivo
+    con Google Assistant!
+  smallLogoImage: https://lh3.googleusercontent.com/EiamTgZEcsjGXeFSaiIFg7qOeWsdxttR3Go4CdZsb1UcTyg6OeTT2rXvNmEk0_nCIMK6IMrvPwYH
+  themeCustomization:
+    backgroundColor: '#FAFAFA'
+    fontFamily: monospace
+    imageCornerStyle: CURVED
+    primaryColor: '#101010'
+  voice: female_1
+projectId: action-pokemundo

@@ -1,0 +1,10 @@
+parameters:
+- name: pokemon
+  type:
+    name: pokemon
+trainingPhrases:
+- háblame sobre ($pokemon 'pikachu' auto=false)
+- quién es ($pokemon 'pikachu' auto=false)
+- dame más información sobre ($pokemon 'pikachu' auto=false)
+- ($pokemon 'pikachu' auto=false)
+- qué pokemon es ($pokemon 'pikachu' auto=false)

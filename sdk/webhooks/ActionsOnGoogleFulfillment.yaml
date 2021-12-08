@@ -1,0 +1,4 @@
+handlers:
+- name: GetInfoHandler
+inlineCloudFunction:
+  executeFunction: ActionsOnGoogleFulfillment

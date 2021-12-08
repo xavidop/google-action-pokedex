@@ -1,0 +1,7 @@
+onSlotUpdated:
+  webhookHandler: GetInfoHandler
+slots:
+- name: pokemon
+  required: true
+  type:
+    name: pokemon

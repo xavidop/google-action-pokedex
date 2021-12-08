@@ -1,0 +1,10 @@
+{
+  "functions": {
+    "source": "sdk/webhooks/ActionsOnGoogleFulfillment"
+  },
+    "emulators": {
+      "functions": {
+        "port": 5001
+      }
+    }
+  }

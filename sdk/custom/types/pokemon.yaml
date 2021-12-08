@@ -1,0 +1,5073 @@
+synonym:
+  entities:
+    "2":
+      synonyms:
+      - Bulbasaur
+      - "2"
+      - Bulbasaur
+      - bulbasur
+    "3":
+      synonyms:
+      - Ivysaur
+      - "3"
+      - Ivysaur
+      - ivisur
+    "4":
+      synonyms:
+      - Venusaur
+      - "4"
+      - Venusaur
+      - venusur
+    "5":
+      synonyms:
+      - Charmander
+      - "5"
+      - Charmander
+      - charmander
+    "6":
+      synonyms:
+      - Charmeleon
+      - "6"
+      - Charmeleon
+      - charmilion
+    "7":
+      synonyms:
+      - Charizard
+      - "7"
+      - Charizard
+      - charizard
+    "8":
+      synonyms:
+      - Squirtle
+      - "8"
+      - Squirtle
+      - scuirtel
+    "9":
+      synonyms:
+      - Wartortle
+      - "9"
+      - Wartortle
+      - guartortel
+      - buartortel
+    "10":
+      synonyms:
+      - Blastoise
+      - "10"
+      - Blastoise
+      - blastois
+    "11":
+      synonyms:
+      - Caterpie
+      - "11"
+      - Caterpie
+      - caterpi
+      - carerpi
+    "12":
+      synonyms:
+      - Metapod
+      - "12"
+      - Metapod
+      - matapo
+    "13":
+      synonyms:
+      - Butterfree
+      - "13"
+      - Butterfree
+      - baterfri
+      - barerfri
+    "14":
+      synonyms:
+      - Weedle
+      - "14"
+      - Weedle
+      - widel
+      - vuidel
+    "15":
+      synonyms:
+      - Kakuna
+      - "15"
+      - Kakuna
+      - kakuna
+    "16":
+      synonyms:
+      - Beedrill
+      - "16"
+      - Beedrill
+      - bidril
+    "17":
+      synonyms:
+      - Pidgey
+      - "17"
+      - Pidgey
+      - pidlli
+    "18":
+      synonyms:
+      - Pidgeotto
+      - "18"
+      - Pidgeotto
+      - pidgioto
+    "19":
+      synonyms:
+      - Pidgeot
+      - "19"
+      - Pidgeot
+      - pidgiot
+    "20":
+      synonyms:
+      - Rattata
+      - "20"
+      - Rattata
+      - ratata
+    "21":
+      synonyms:
+      - Raticate
+      - "21"
+      - Raticate
+      - ratiqueit
+    "22":
+      synonyms:
+      - Spearow
+      - "22"
+      - Spearow
+      - spirou
+      - spirow
+    "23":
+      synonyms:
+      - Fearow
+      - "23"
+      - Fearow
+      - firou
+      - firow
+    "24":
+      synonyms:
+      - Ekans
+      - "24"
+      - Ekans
+      - icans
+    "25":
+      synonyms:
+      - Arbok
+      - "25"
+      - Arbok
+      - arboc
+    "26":
+      synonyms:
+      - Pikachu
+      - "26"
+      - Pikachu
+      - picachu
+    "27":
+      synonyms:
+      - Raichu
+      - "27"
+      - Raichu
+      - reichu
+    "28":
+      synonyms:
+      - Sandshrew
+      - "28"
+      - Sandshrew
+      - sandsriu
+    "29":
+      synonyms:
+      - Sandslash
+      - "29"
+      - Sandslash
+      - sandslas
+    "30":
+      synonyms:
+      - Nidoran
+      - "30"
+      - Nidoran
+      - nidoran
+    "31":
+      synonyms:
+      - Nidorina
+      - "31"
+      - Nidorina
+      - nidorina
+    "32":
+      synonyms:
+      - Nidoqueen
+      - "32"
+      - Nidoqueen
+      - nidocuin
+    "33":
+      synonyms:
+      - Nidoran
+      - "33"
+      - Nidoran
+      - nidoran
+    "34":
+      synonyms:
+      - Nidorino
+      - "34"
+      - Nidorino
+      - nidorino
+    "35":
+      synonyms:
+      - Nidoking
+      - "35"
+      - Nidoking
+      - nidokin
+    "36":
+      synonyms:
+      - Clefairy
+      - "36"
+      - Clefairy
+      - clefeiri
+    "37":
+      synonyms:
+      - Clefable
+      - "37"
+      - Clefable
+      - clefable
+    "38":
+      synonyms:
+      - Vulpix
+      - "38"
+      - Vulpix
+      - vlupis
+    "39":
+      synonyms:
+      - Ninetales
+      - "39"
+      - Ninetales
+      - nainteils
+    "40":
+      synonyms:
+      - Jigglypuff
+      - "40"
+      - Jigglypuff
+      - lliglipuf
+    "41":
+      synonyms:
+      - Wigglytuff
+      - "41"
+      - Wigglytuff
+      - vuiglipuf
+    "42":
+      synonyms:
+      - Zubat
+      - "42"
+      - Zubat
+      - subat
+    "43":
+      synonyms:
+      - Golbat
+      - "43"
+      - Golbat
+      - golbat
+    "44":
+      synonyms:
+      - Oddish
+      - "44"
+      - Oddish
+      - odis
+    "45":
+      synonyms:
+      - Gloom
+      - "45"
+      - Gloom
+      - glum
+    "46":
+      synonyms:
+      - Vileplume
+      - "46"
+      - Vileplume
+      - vailplum
+    "47":
+      synonyms:
+      - Paras
+      - "47"
+      - Paras
+      - paras
+    "48":
+      synonyms:
+      - Parasect
+      - "48"
+      - Parasect
+      - parasect
+    "49":
+      synonyms:
+      - Venonat
+      - "49"
+      - Venonat
+      - venonat
+    "50":
+      synonyms:
+      - Venomoth
+      - "50"
+      - Venomoth
+      - venomoz
+    "51":
+      synonyms:
+      - Diglett
+      - "51"
+      - Diglett
+      - figlet
+    "52":
+      synonyms:
+      - Dugtrio
+      - "52"
+      - Dugtrio
+      - dugtrio
+      - dagtrio
+    "53":
+      synonyms:
+      - Meowth
+      - "53"
+      - Meowth
+      - meouz
+      - miauz
+    "54":
+      synonyms:
+      - Persian
+      - "54"
+      - Persian
+      - persian
+    "55":
+      synonyms:
+      - Psyduck
+      - "55"
+      - Psyduck
+      - saidac
+    "56":
+      synonyms:
+      - Golduck
+      - "56"
+      - Golduck
+      - goldac
+    "57":
+      synonyms:
+      - Mankey
+      - "57"
+      - Mankey
+      - manki
+    "58":
+      synonyms:
+      - Primeape
+      - "58"
+      - Primeape
+      - primeip
+    "59":
+      synonyms:
+      - Growlithe
+      - "59"
+      - Growlithe
+      - grouliz
+      - grauliz
+    "60":
+      synonyms:
+      - Arcanine
+      - "60"
+      - Arcanine
+      - arcanain
+    "61":
+      synonyms:
+      - Poliwag
+      - "61"
+      - Poliwag
+      - poliwag
+      - poliguag
+    "62":
+      synonyms:
+      - Poliwhirl
+      - "62"
+      - Poliwhirl
+      - poliwirl
+      - poligüirl
+    "63":
+      synonyms:
+      - Poliwrath
+      - "63"
+      - Poliwrath
+      - poliraz
+      - poliruaz
+    "64":
+      synonyms:
+      - Abra
+      - "64"
+      - Abra
+      - abra
+    "65":
+      synonyms:
+      - Kadabra
+      - "65"
+      - Kadabra
+      - cadabra
+    "66":
+      synonyms:
+      - Alakazam
+      - "66"
+      - Alakazam
+      - alacazam
+      - alacasam
+    "67":
+      synonyms:
+      - Machop
+      - "67"
+      - Machop
+      - maxop
+    "68":
+      synonyms:
+      - Machoke
+      - "68"
+      - Machoke
+      - machoque
+    "69":
+      synonyms:
+      - Machamp
+      - "69"
+      - Machamp
+      - maxamp
+    "70":
+      synonyms:
+      - Bellsprout
+      - "70"
+      - Bellsprout
+      - belspraut
+      - belsprout
+    "71":
+      synonyms:
+      - Weepinbell
+      - "71"
+      - Weepinbell
+      - vuipinbel
+      - güipinbel
+    "72":
+      synonyms:
+      - Victreebel
+      - "72"
+      - Victreebel
+      - victribel
+      - victribel
+    "73":
+      synonyms:
+      - Tentacool
+      - "73"
+      - Tentacool
+      - tentacul
+    "74":
+      synonyms:
+      - Tentacruel
+      - "74"
+      - Tentacruel
+      - tentacruel
+    "75":
+      synonyms:
+      - Geodude
+      - "75"
+      - Geodude
+      - lliodud
+      - giodud
+    "76":
+      synonyms:
+      - Graveler
+      - "76"
+      - Graveler
+      - graveler
+    "77":
+      synonyms:
+      - Golem
+      - "77"
+      - Golem
+      - golem
+    "78":
+      synonyms:
+      - Ponyta
+      - "78"
+      - Ponyta
+      - ponita
+    "79":
+      synonyms:
+      - Rapidash
+      - "79"
+      - Rapidash
+      - rapidas
+    "80":
+      synonyms:
+      - Slowpoke
+      - "80"
+      - Slowpoke
+      - sloupoc
+    "81":
+      synonyms:
+      - Slowbro
+      - "81"
+      - Slowbro
+      - sloubro
+    "82":
+      synonyms:
+      - Magnemite
+      - "82"
+      - Magnemite
+      - magnemait
+    "83":
+      synonyms:
+      - Magneton
+      - "83"
+      - Magneton
+      - magneton
+    "84":
+      synonyms:
+      - Farfetched
+      - "84"
+      - Farfetched
+      - farfech
+    "85":
+      synonyms:
+      - Doduo
+      - "85"
+      - Doduo
+      - doduo
+    "86":
+      synonyms:
+      - Dodrio
+      - "86"
+      - Dodrio
+      - dogtrio
+    "87":
+      synonyms:
+      - Seel
+      - "87"
+      - Seel
+      - sil
+      - siil
+    "88":
+      synonyms:
+      - Dewgong
+      - "88"
+      - Dewgong
+      - dugong
+      - dugon
+    "89":
+      synonyms:
+      - Grimer
+      - "89"
+      - Grimer
+      - grima
+    "90":
+      synonyms:
+      - Muk
+      - "90"
+      - Muk
+      - muc
+    "91":
+      synonyms:
+      - Shellder
+      - "91"
+      - Shellder
+      - selder
+      - shelder
+    "92":
+      synonyms:
+      - Cloyster
+      - "92"
+      - Cloyster
+      - cloister
+      - cloista
+    "93":
+      synonyms:
+      - Gastly
+      - "93"
+      - Gastly
+      - gasli
+    "94":
+      synonyms:
+      - Haunter
+      - "94"
+      - Haunter
+      - jaunter
+      - aunter
+    "95":
+      synonyms:
+      - Gengar
+      - "95"
+      - Gengar
+      - gingar
+      - genga
+    "96":
+      synonyms:
+      - Onix
+      - "96"
+      - Onix
+      - onis
+    "97":
+      synonyms:
+      - Drowzee
+      - "97"
+      - Drowzee
+      - drausi
+    "98":
+      synonyms:
+      - Hypno
+      - "98"
+      - Hypno
+      - ipno
+    "99":
+      synonyms:
+      - Krabby
+      - "99"
+      - Krabby
+      - crabi
+    "100":
+      synonyms:
+      - Kingler
+      - "100"
+      - Kingler
+      - kingla
+    "101":
+      synonyms:
+      - Voltorb
+      - "101"
+      - Voltorb
+      - voltor
+    "102":
+      synonyms:
+      - Electrode
+      - "102"
+      - Electrode
+      - electroud
+    "103":
+      synonyms:
+      - Exeggcute
+      - "103"
+      - Exeggcute
+      - ecsequiut
+    "104":
+      synonyms:
+      - Exeggutor
+      - "104"
+      - Exeggutor
+      - ecsecutor
+    "105":
+      synonyms:
+      - Cubone
+      - "105"
+      - Cubone
+      - kiubon
+      - quiubon
+    "106":
+      synonyms:
+      - Marowak
+      - "106"
+      - Marowak
+      - marouak
+      - marovuac
+    "107":
+      synonyms:
+      - Hitmonlee
+      - "107"
+      - Hitmonlee
+      - itmonli
+      - hitmonli
+    "108":
+      synonyms:
+      - Hitmonchan
+      - "108"
+      - Hitmonchan
+      - itmonchan
+      - hitmonxan
+    "109":
+      synonyms:
+      - Lickitung
+      - "109"
+      - Lickitung
+      - likitan
+    "110":
+      synonyms:
+      - Koffing
+      - "110"
+      - Koffing
+      - cofin
+      - cofing
+    "111":
+      synonyms:
+      - Weezing
+      - "111"
+      - Weezing
+      - uizin
+      - vuizing
+    "112":
+      synonyms:
+      - Rhyhorn
+      - "112"
+      - Rhyhorn
+      - raizorn
+    "113":
+      synonyms:
+      - Rhydon
+      - "113"
+      - Rhydon
+      - raidon
+    "114":
+      synonyms:
+      - Chansey
+      - "114"
+      - Chansey
+      - chansi
+    "115":
+      synonyms:
+      - Tangela
+      - "115"
+      - Tangela
+      - tanguela
+    "116":
+      synonyms:
+      - Kangaskhan
+      - "116"
+      - Kangaskhan
+      - cangascan
+    "117":
+      synonyms:
+      - Horsea
+      - "117"
+      - Horsea
+      - jorsi
+      - horsi
+    "118":
+      synonyms:
+      - Seadra
+      - "118"
+      - Seadra
+      - sidra
+    "119":
+      synonyms:
+      - Goldeen
+      - "119"
+      - Goldeen
+      - goldin
+    "120":
+      synonyms:
+      - Seaking
+      - "120"
+      - Seaking
+      - siking
+    "121":
+      synonyms:
+      - Staryu
+      - "121"
+      - Staryu
+      - starllu
+    "122":
+      synonyms:
+      - Starmie
+      - "122"
+      - Starmie
+      - starmi
+    "123":
+      synonyms:
+      - Mr. Mime
+      - "123"
+      - Mr. Mime
+      - mister maim
+      - mister mime
+    "124":
+      synonyms:
+      - Scyther
+      - "124"
+      - Scyther
+      - saizer
+    "125":
+      synonyms:
+      - Jynx
+      - "125"
+      - Jynx
+      - llinx
+      - jinx
+    "126":
+      synonyms:
+      - Electabuzz
+      - "126"
+      - Electabuzz
+      - electabuz
+    "127":
+      synonyms:
+      - Magmar
+      - "127"
+      - Magmar
+      - magma
+    "128":
+      synonyms:
+      - Pinsir
+      - "128"
+      - Pinsir
+      - pinsir
+    "129":
+      synonyms:
+      - Tauros
+      - "129"
+      - Tauros
+      - taurus
+    "130":
+      synonyms:
+      - Magikarp
+      - "130"
+      - Magikarp
+      - mallicarp
+    "131":
+      synonyms:
+      - Gyarados
+      - "131"
+      - Gyarados
+      - lliarados
+      - giarados
+    "132":
+      synonyms:
+      - Lapras
+      - "132"
+      - Lapras
+      - lapras
+    "133":
+      synonyms:
+      - Ditto
+      - "133"
+      - Ditto
+      - dito
+      - ditou
+    "134":
+      synonyms:
+      - Eevee
+      - "134"
+      - Eevee
+      - ivi
+    "135":
+      synonyms:
+      - Vaporeon
+      - "135"
+      - Vaporeon
+      - vaporion
+    "136":
+      synonyms:
+      - Jolteon
+      - "136"
+      - Jolteon
+      - lloltion
+      - joltion
+    "137":
+      synonyms:
+      - Flareon
+      - "137"
+      - Flareon
+      - flarion
+    "138":
+      synonyms:
+      - Porygon
+      - "138"
+      - Porygon
+      - porigon
+    "139":
+      synonyms:
+      - Omanyte
+      - "139"
+      - Omanyte
+      - omanait
+    "140":
+      synonyms:
+      - Omastar
+      - "140"
+      - Omastar
+      - omastar
+    "141":
+      synonyms:
+      - Kabuto
+      - "141"
+      - Kabuto
+      - cabuto
+    "142":
+      synonyms:
+      - Kabutops
+      - "142"
+      - Kabutops
+      - cabutops
+    "143":
+      synonyms:
+      - Aerodactyl
+      - "143"
+      - Aerodactyl
+      - aredactil
+    "144":
+      synonyms:
+      - Snorlax
+      - "144"
+      - Snorlax
+      - esnorlax
+    "145":
+      synonyms:
+      - Articuno
+      - "145"
+      - Articuno
+      - articuno
+    "146":
+      synonyms:
+      - Zapdos
+      - "146"
+      - Zapdos
+      - zapdos
+    "147":
+      synonyms:
+      - Moltres
+      - "147"
+      - Moltres
+      - moltres
+    "148":
+      synonyms:
+      - Dratini
+      - "148"
+      - Dratini
+      - dratini
+    "149":
+      synonyms:
+      - Dragonair
+      - "149"
+      - Dragonair
+      - dragonair
+    "150":
+      synonyms:
+      - Dragonite
+      - "150"
+      - Dragonite
+      - dragonait
+    "151":
+      synonyms:
+      - Mewtwo
+      - "151"
+      - Mewtwo
+      - miutu
+    "152":
+      synonyms:
+      - Mew
+      - "152"
+      - Mew
+      - miutu
+    "153":
+      synonyms:
+      - Chikorita
+      - "153"
+      - Chikorita
+      - xicorita
+    "154":
+      synonyms:
+      - Bayleef
+      - "154"
+      - Bayleef
+      - beilif
+    "155":
+      synonyms:
+      - Meganium
+      - "155"
+      - Meganium
+      - meganium
+    "156":
+      synonyms:
+      - Cyndaquil
+      - "156"
+      - Cyndaquil
+      - sindakuil
+      - sindaqüil
+    "157":
+      synonyms:
+      - Quilava
+      - "157"
+      - Quilava
+      - kwilava
+      - cuilava
+    "158":
+      synonyms:
+      - Typhlosion
+      - "158"
+      - Typhlosion
+      - taiflousen
+      - taiflouson
+    "159":
+      synonyms:
+      - Totodile
+      - "159"
+      - Totodile
+      - totodail
+    "160":
+      synonyms:
+      - Croconaw
+      - "160"
+      - Croconaw
+      - coroconau
+    "161":
+      synonyms:
+      - Feraligatr
+      - "161"
+      - Feraligatr
+      - feraligart
+      - feraligar
+    "162":
+      synonyms:
+      - Sentret
+      - "162"
+      - Sentret
+      - sentret
+    "163":
+      synonyms:
+      - Furret
+      - "163"
+      - Furret
+      - furet
+    "164":
+      synonyms:
+      - Hoothoot
+      - "164"
+      - Hoothoot
+      - huthut
+      - jutju
+    "165":
+      synonyms:
+      - Noctowl
+      - "165"
+      - Noctowl
+      - noctaul
+      - nactaul
+    "166":
+      synonyms:
+      - Ledyba
+      - "166"
+      - Ledyba
+      - lediva
+    "167":
+      synonyms:
+      - Ledian
+      - "167"
+      - Ledian
+      - ledian
+    "168":
+      synonyms:
+      - Spinarak
+      - "168"
+      - Spinarak
+      - spinarac
+      - spinerac
+    "169":
+      synonyms:
+      - Ariados
+      - "169"
+      - Ariados
+      - ariados
+    "170":
+      synonyms:
+      - Crobat
+      - "170"
+      - Crobat
+      - crobat
+    "171":
+      synonyms:
+      - Chinchou
+      - "171"
+      - Chinchou
+      - chinchou
+    "172":
+      synonyms:
+      - Lanturn
+      - "172"
+      - Lanturn
+      - lanturn
+      - lantur
+    "173":
+      synonyms:
+      - Pichu
+      - "173"
+      - Pichu
+      - pixu
+    "174":
+      synonyms:
+      - Cleffa
+      - "174"
+      - Cleffa
+      - clefa
+    "175":
+      synonyms:
+      - Igglybuff
+      - "175"
+      - Igglybuff
+      - iglipuf
+    "176":
+      synonyms:
+      - Togepi
+      - "176"
+      - Togepi
+      - togepi
+    "177":
+      synonyms:
+      - Togetic
+      - "177"
+      - Togetic
+      - togetic
+    "178":
+      synonyms:
+      - Natu
+      - "178"
+      - Natu
+      - natu
+    "179":
+      synonyms:
+      - Xatu
+      - "179"
+      - Xatu
+      - satu
+    "180":
+      synonyms:
+      - Mareep
+      - "180"
+      - Mareep
+      - marip
+      - mari
+    "181":
+      synonyms:
+      - Flaaffy
+      - "181"
+      - Flaaffy
+      - flafi
+    "182":
+      synonyms:
+      - Ampharos
+      - "182"
+      - Ampharos
+      - amfaros
+    "183":
+      synonyms:
+      - Bellossom
+      - "183"
+      - Bellossom
+      - bellosom
+    "184":
+      synonyms:
+      - Marill
+      - "184"
+      - Marill
+      - marril
+      - maril
+    "185":
+      synonyms:
+      - Azumarill
+      - "185"
+      - Azumarill
+      - asumaril
+      - azumaril
+    "186":
+      synonyms:
+      - Sudowoodo
+      - "186"
+      - Sudowoodo
+      - sudovudo
+    "187":
+      synonyms:
+      - Politoed
+      - "187"
+      - Politoed
+      - politoud
+    "188":
+      synonyms:
+      - Hoppip
+      - "188"
+      - hopip
+      - opip
+      - jopip
+    "189":
+      synonyms:
+      - Skiploom
+      - "189"
+      - Skiploom
+      - skiplum
+    "190":
+      synonyms:
+      - Jumpluff
+      - "190"
+      - Jumpluff
+      - llumpluf
+      - jumpluf
+    "191":
+      synonyms:
+      - Aipom
+      - "191"
+      - Aipom
+      - aipam
+    "192":
+      synonyms:
+      - Sunkern
+      - "192"
+      - Sunkern
+      - sankern
+    "193":
+      synonyms:
+      - Sunflora
+      - "193"
+      - Sunflora
+      - sanflora
+      - sanfloura
+    "194":
+      synonyms:
+      - Yanma
+      - "194"
+      - Yanma
+      - llanma
+    "195":
+      synonyms:
+      - Wooper
+      - "195"
+      - Wooper
+      - vuper
+    "196":
+      synonyms:
+      - Quagsire
+      - "196"
+      - Quagsire
+      - cuagsair
+      - cuagsai
+    "197":
+      synonyms:
+      - Espeon
+      - "197"
+      - Espeon
+      - espion
+    "198":
+      synonyms:
+      - Umbreon
+      - "198"
+      - Umbreon
+      - umbrion
+    "199":
+      synonyms:
+      - Murkrow
+      - "199"
+      - Murkrow
+      - mercrou
+    "200":
+      synonyms:
+      - Slowking
+      - "200"
+      - Slowking
+      - slouking
+      - slouquing
+    "201":
+      synonyms:
+      - Misdreavus
+      - "201"
+      - Misdreavus
+      - misdrous
+      - misdrevus
+    "202":
+      synonyms:
+      - Unown
+      - "202"
+      - Unown
+      - anoun
+      - unoun
+    "203":
+      synonyms:
+      - Wobbuffet
+      - "203"
+      - Wobbuffet
+      - vuobufet
+    "204":
+      synonyms:
+      - Girafarig
+      - "204"
+      - Girafarig
+      - grafirg
+      - graferig
+    "205":
+      synonyms:
+      - Pineco
+      - "205"
+      - Pineco
+      - pinecou
+    "206":
+      synonyms:
+      - Forretress
+      - "206"
+      - Forretress
+      - fortres
+    "207":
+      synonyms:
+      - Dunsparce
+      - "207"
+      - Dunsparce
+      - danspars
+    "208":
+      synonyms:
+      - Gligar
+      - "208"
+      - Gligar
+      - glaigar
+    "209":
+      synonyms:
+      - Steelix
+      - "209"
+      - Steelix
+      - stilics
+      - stilix
+    "210":
+      synonyms:
+      - Snubbull
+      - "210"
+      - Snubbull
+      - esnabul
+      - snabul
+    "211":
+      synonyms:
+      - Granbull
+      - "211"
+      - Granbull
+      - granbul
+    "212":
+      synonyms:
+      - Qwilfish
+      - "212"
+      - Qwilfish
+      - cuilfis
+    "213":
+      synonyms:
+      - Scizor
+      - "213"
+      - Scizor
+      - saisor
+      - sizor
+    "214":
+      synonyms:
+      - Shuckle
+      - "214"
+      - Shuckle
+      - sakel
+      - saquel
+    "215":
+      synonyms:
+      - Heracross
+      - "215"
+      - Heracross
+      - eracros
+      - heracros
+    "216":
+      synonyms:
+      - Sneasel
+      - "216"
+      - Sneasel
+      - snisel
+      - esnisel
+    "217":
+      synonyms:
+      - Teddiursa
+      - "217"
+      - Teddiursa
+      - tediursa
+    "218":
+      synonyms:
+      - Ursaring
+      - "218"
+      - Ursaring
+      - urseirin
+      - urseiring
+    "219":
+      synonyms:
+      - Slugma
+      - "219"
+      - Slugma
+      - slagma
+    "220":
+      synonyms:
+      - Magcargo
+      - "220"
+      - Magcargo
+      - magcargou
+    "221":
+      synonyms:
+      - Swinub
+      - "221"
+      - Swinub
+      - suainab
+    "222":
+      synonyms:
+      - Piloswine
+      - "222"
+      - Piloswine
+      - pailousvian
+      - pailouswain
+    "223":
+      synonyms:
+      - Corsola
+      - "223"
+      - Corsola
+      - corsela
+    "224":
+      synonyms:
+      - Remoraid
+      - "224"
+      - Remoraid
+      - remoreid
+    "225":
+      synonyms:
+      - Octillery
+      - "225"
+      - Octillery
+      - octileri
+    "226":
+      synonyms:
+      - Delibird
+      - "226"
+      - Delibird
+      - delibird
+    "227":
+      synonyms:
+      - Mantine
+      - "227"
+      - Mantine
+      - mantin
+      - mantain
+    "228":
+      synonyms:
+      - Skarmory
+      - "228"
+      - Skarmory
+      - scarmori
+      - escarmori
+    "229":
+      synonyms:
+      - Houndour
+      - "229"
+      - Houndour
+      - jaundur
+      - haundur
+    "230":
+      synonyms:
+      - Houndoom
+      - "230"
+      - Houndoom
+      - haundum
+      - jaundum
+    "231":
+      synonyms:
+      - Kingdra
+      - "231"
+      - Kingdra
+      - kingdra
+    "232":
+      synonyms:
+      - Phanpy
+      - "232"
+      - Phanpy
+      - fanpi
+    "233":
+      synonyms:
+      - Donphan
+      - "233"
+      - Donphan
+      - donfan
+    "234":
+      synonyms:
+      - Porygon2
+      - "234"
+      - Porygon2
+      - porigondos
+      - porigon dos
+    "235":
+      synonyms:
+      - Stantler
+      - "235"
+      - Stantler
+      - estantler
+      - estantle
+    "236":
+      synonyms:
+      - Smeargle
+      - "236"
+      - Smeargle
+      - esmirgel
+    "237":
+      synonyms:
+      - Tyrogue
+      - "237"
+      - Tyrogue
+      - tairog
+    "238":
+      synonyms:
+      - Hitmontop
+      - "238"
+      - Hitmontop
+      - itmontop
+      - jitmontop
+    "239":
+      synonyms:
+      - Smoochum
+      - "239"
+      - Smoochum
+      - smuchum
+    "240":
+      synonyms:
+      - Elekid
+      - "240"
+      - Elekid
+      - elequid
+    "241":
+      synonyms:
+      - Magby
+      - "241"
+      - Magby
+      - magbi
+    "242":
+      synonyms:
+      - Miltank
+      - "242"
+      - Miltank
+      - miltanc
+    "243":
+      synonyms:
+      - Blissey
+      - "243"
+      - Blissey
+      - blisi
+    "244":
+      synonyms:
+      - Raikou
+      - "244"
+      - Raikou
+      - raicou
+    "245":
+      synonyms:
+      - Entei
+      - "245"
+      - Entei
+    "246":
+      synonyms:
+      - Suicune
+      - "246"
+      - Suicune
+      - suicun
+    "247":
+      synonyms:
+      - Larvitar
+      - "247"
+      - Larvitar
+      - larvitar
+    "248":
+      synonyms:
+      - Pupitar
+      - "248"
+      - Pupitar
+      - piupitar
+    "249":
+      synonyms:
+      - Tyranitar
+      - "249"
+      - Tyranitar
+      - tairanitar
+    "250":
+      synonyms:
+      - Lugia
+      - "250"
+      - Lugia
+      - luguia
+    "251":
+      synonyms:
+      - Ho-Oh
+      - "251"
+      - Ho-Oh
+      - hou hou
+      - jou jou
+    "252":
+      synonyms:
+      - Celebi
+      - "252"
+      - Celebi
+      - selebi
+    "253":
+      synonyms:
+      - Treecko
+      - "253"
+      - Treecko
+      - trico
+      - tricou
+    "254":
+      synonyms:
+      - Grovyle
+      - "254"
+      - Grovyle
+      - grovail
+    "255":
+      synonyms:
+      - Sceptile
+      - "255"
+      - Sceptile
+      - septail
+      - eseptail
+    "256":
+      synonyms:
+      - Torchic
+      - "256"
+      - Torchic
+      - torxic
+    "257":
+      synonyms:
+      - Combusken
+      - "257"
+      - Combusken
+      - comusquen
+    "258":
+      synonyms:
+      - Blaziken
+      - "258"
+      - Blaziken
+      - bleisiken
+      - blaisiken
+    "259":
+      synonyms:
+      - Mudkip
+      - "259"
+      - Mudkip
+      - madquip
+    "260":
+      synonyms:
+      - Marshtomp
+      - "260"
+      - Marshtomp
+      - marstomp
+    "261":
+      synonyms:
+      - Swampert
+      - "261"
+      - Swampert
+      - suampert
+    "262":
+      synonyms:
+      - Poochyena
+      - "262"
+      - Poochyena
+      - puchena
+      - puchieina
+    "263":
+      synonyms:
+      - Mightyena
+      - "263"
+      - Mightyena
+      - maigtena
+    "264":
+      synonyms:
+      - Zigzagoon
+      - "264"
+      - Zigzagoon
+      - zigzagun
+      - sigasagun
+    "265":
+      synonyms:
+      - Linoone
+      - "265"
+      - Linoone
+      - linun
+    "266":
+      synonyms:
+      - Wurmple
+      - "266"
+      - Wurmple
+      - varmpel
+      - vuarmpel
+    "267":
+      synonyms:
+      - Silcoon
+      - "267"
+      - Silcoon
+      - silcun
+    "268":
+      synonyms:
+      - Beautifly
+      - "268"
+      - Beautifly
+      - biutifai
+    "269":
+      synonyms:
+      - Cascoon
+      - "269"
+      - Cascoon
+      - cascun
+    "270":
+      synonyms:
+      - Dustox
+      - "270"
+      - Dustox
+      - dastox
+      - dastocs
+    "271":
+      synonyms:
+      - Lotad
+      - "271"
+      - Lotad
+      - loutad
+    "272":
+      synonyms:
+      - Lombre
+      - "272"
+      - Lombre
+      - lombre
+    "273":
+      synonyms:
+      - Ludicolo
+      - "273"
+      - Ludicolo
+      - ludicolo
+    "274":
+      synonyms:
+      - Seedot
+      - "274"
+      - Seedot
+      - sidot
+    "275":
+      synonyms:
+      - Nuzleaf
+      - "275"
+      - Nuzleaf
+      - nazlif
+      - naslif
+    "276":
+      synonyms:
+      - Shiftry
+      - "276"
+      - Shiftry
+      - siftri
+    "277":
+      synonyms:
+      - Taillow
+      - "277"
+      - Taillow
+      - teilou
+    "278":
+      synonyms:
+      - Swellow
+      - "278"
+      - Swellow
+      - suilou
+    "279":
+      synonyms:
+      - Wingull
+      - "279"
+      - Wingull
+      - vuingul
+    "280":
+      synonyms:
+      - Pelipper
+      - "280"
+      - Pelipper
+      - peliper
+    "281":
+      synonyms:
+      - Ralts
+      - "281"
+      - Ralts
+      - ralts
+    "282":
+      synonyms:
+      - Kirlia
+      - "282"
+      - Kirlia
+      - quirlia
+    "283":
+      synonyms:
+      - Gardevoir
+      - "283"
+      - Gardevoir
+      - gardevuar
+      - gardevar
+    "284":
+      synonyms:
+      - Surskit
+      - "284"
+      - Surskit
+      - sarsquit
+      - sasquit
+    "285":
+      synonyms:
+      - Masquerain
+      - "285"
+      - Masquerain
+      - masquerein
+    "286":
+      synonyms:
+      - Shroomish
+      - "286"
+      - Shroomish
+      - esrumis
+      - srumis
+    "287":
+      synonyms:
+      - Breloom
+      - "287"
+      - Breloom
+      - brelum
+    "288":
+      synonyms:
+      - Slakoth
+      - "288"
+      - Slakoth
+      - slakaz
+      - slacoz
+    "289":
+      synonyms:
+      - Vigoroth
+      - "289"
+      - Vigoroth
+      - vigoroz
+    "290":
+      synonyms:
+      - Slaking
+      - "290"
+      - Slaking
+      - slakin
+      - eslaking
+    "291":
+      synonyms:
+      - Nincada
+      - "291"
+      - Nincada
+      - ninkada
+    "292":
+      synonyms:
+      - Ninjask
+      - "292"
+      - Ninjask
+      - ninllask
+      - ninlllask
+    "293":
+      synonyms:
+      - Shedinja
+      - "293"
+      - Shedinja
+      - sedinlla
+    "294":
+      synonyms:
+      - Whismur
+      - "294"
+      - Whismur
+      - vuismer
+    "295":
+      synonyms:
+      - Loudred
+      - "295"
+      - Loudred
+      - laudred
+    "296":
+      synonyms:
+      - Exploud
+      - "296"
+      - Exploud
+      - esploud
+      - esplaud
+    "297":
+      synonyms:
+      - Makuhita
+      - "297"
+      - Makuhita
+      - makuita
+      - macuita
+    "298":
+      synonyms:
+      - Hariyama
+      - "298"
+      - jariyama
+      - harillama
+      - arillama
+    "299":
+      synonyms:
+      - Azurill
+      - "299"
+      - Azurill
+      - azuril
+      - asuril
+    "300":
+      synonyms:
+      - Nosepass
+      - "300"
+      - Nosepass
+      - nouspas
+    "301":
+      synonyms:
+      - Skitty
+      - "301"
+      - Skiti
+      - esquiti
+      - eskiti
+    "302":
+      synonyms:
+      - Delcatty
+      - "302"
+      - Delcatty
+      - delcati
+    "303":
+      synonyms:
+      - Sableye
+      - "303"
+      - seiblei
+      - sablei
+      - seiblai
+    "304":
+      synonyms:
+      - Mawile
+      - "304"
+      - Mawile
+      - mavuail
+    "305":
+      synonyms:
+      - Aron
+      - "305"
+      - Aron
+      - eron
+    "306":
+      synonyms:
+      - Lairon
+      - "306"
+      - Lairon
+      - leiron
+    "307":
+      synonyms:
+      - Aggron
+      - "307"
+      - Aggron
+      - agron
+    "308":
+      synonyms:
+      - Meditite
+      - "308"
+      - Meditite
+      - meditait
+    "309":
+      synonyms:
+      - Medicham
+      - "309"
+      - Medicham
+      - medixam
+      - medicham
+    "310":
+      synonyms:
+      - Electrike
+      - "310"
+      - Electrike
+      - electric
+    "311":
+      synonyms:
+      - Manectric
+      - "311"
+      - Manectric
+    "312":
+      synonyms:
+      - Plusle
+      - "312"
+      - Plusle
+      - plasel
+    "313":
+      synonyms:
+      - Minun
+      - "313"
+      - Minun
+      - mainen
+    "314":
+      synonyms:
+      - Volbeat
+      - "314"
+      - Volbeat
+      - voulbit
+      - volbit
+    "315":
+      synonyms:
+      - Illumise
+      - "315"
+      - Illumise
+      - ilumisai
+      - ilumais
+    "316":
+      synonyms:
+      - Roselia
+      - "316"
+      - Roselia
+    "317":
+      synonyms:
+      - Gulpin
+      - "317"
+      - Gulpin
+      - galpin
+    "318":
+      synonyms:
+      - Swalot
+      - "318"
+      - Swalot
+      - sualot
+    "319":
+      synonyms:
+      - Carvanha
+      - "319"
+      - Carvanha
+      - carvana
+    "320":
+      synonyms:
+      - Sharpedo
+      - "320"
+      - sarpidou
+      - sarpido
+      - sarpedo
+    "321":
+      synonyms:
+      - Wailmer
+      - "321"
+      - Wailmer
+      - vueilmer
+      - vuailmer
+    "322":
+      synonyms:
+      - Wailord
+      - "322"
+      - Wailord
+      - vueilord
+    "323":
+      synonyms:
+      - Numel
+      - "323"
+      - Numel
+      - namel
+    "324":
+      synonyms:
+      - Camerupt
+      - "324"
+      - Camerupt
+      - camerapt
+    "325":
+      synonyms:
+      - Torkoal
+      - "325"
+      - Torkoal
+      - torcoul
+      - torkoul
+    "326":
+      synonyms:
+      - Spoink
+      - "326"
+      - Spoink
+      - espoinc
+    "327":
+      synonyms:
+      - Grumpig
+      - "327"
+      - Grumpig
+      - grampig
+      - grampi
+    "328":
+      synonyms:
+      - Spinda
+      - "328"
+      - Spinda
+      - espinda
+    "329":
+      synonyms:
+      - Trapinch
+      - "329"
+      - Trapinch
+      - trapinx
+    "330":
+      synonyms:
+      - Vibrava
+      - "330"
+      - Vibrava
+      - vaibrava
+    "331":
+      synonyms:
+      - Flygon
+      - "331"
+      - Flygon
+      - flaigon
+    "332":
+      synonyms:
+      - Cacnea
+      - "332"
+      - Cacnea
+      - cacnia
+    "333":
+      synonyms:
+      - Cacturne
+      - "333"
+      - Cacturne
+      - cacturn
+    "334":
+      synonyms:
+      - Swablu
+      - "334"
+      - Swablu
+      - suaiblu
+    "335":
+      synonyms:
+      - Altaria
+      - "335"
+      - Altaria
+    "336":
+      synonyms:
+      - Zangoose
+      - "336"
+      - Zangoose
+      - zangus
+      - zanguus
+    "337":
+      synonyms:
+      - Seviper
+      - "337"
+      - Seviper
+      - sevaiper
+    "338":
+      synonyms:
+      - Lunatone
+      - "338"
+      - Lunatone
+      - lunatoun
+    "339":
+      synonyms:
+      - Solrock
+      - "339"
+      - Solrock
+      - solroc
+    "340":
+      synonyms:
+      - Barboach
+      - "340"
+      - Barboach
+    "341":
+      synonyms:
+      - Whiscash
+      - "341"
+      - Whiscash
+      - vuiscas
+    "342":
+      synonyms:
+      - Corphish
+      - "342"
+      - Corphish
+      - corpis
+    "343":
+      synonyms:
+      - Crawdaunt
+      - "343"
+      - Crawdaunt
+      - cradant
+      - craudant
+    "344":
+      synonyms:
+      - Baltoy
+      - "344"
+      - Baltoy
+      - baltoi
+    "345":
+      synonyms:
+      - Claydol
+      - "345"
+      - Claydol
+      - cleidol
+      - kleidol
+    "346":
+      synonyms:
+      - Lileep
+      - "346"
+      - Lileep
+      - lilip
+    "347":
+      synonyms:
+      - Cradily
+      - "347"
+      - Cradily
+      - creidili
+    "348":
+      synonyms:
+      - Anorith
+      - "348"
+      - Anorith
+      - anoriz
+    "349":
+      synonyms:
+      - Armaldo
+      - "349"
+      - Armaldo
+      - armaldou
+    "350":
+      synonyms:
+      - Feebas
+      - "350"
+      - Feebas
+      - fibas
+    "351":
+      synonyms:
+      - Milotic
+      - "351"
+      - Milotic
+      - milotich
+    "352":
+      synonyms:
+      - Castform
+      - "352"
+      - Castform
+      - castform
+    "353":
+      synonyms:
+      - Kecleon
+      - "353"
+      - Kecleon
+      - quecleon
+      - keklion
+    "354":
+      synonyms:
+      - Shuppet
+      - "354"
+      - Shuppet
+      - sapet
+    "355":
+      synonyms:
+      - Banette
+      - "355"
+      - Banette
+      - beinet
+      - banet
+    "356":
+      synonyms:
+      - Duskull
+      - "356"
+      - Duskull
+      - daskul
+    "357":
+      synonyms:
+      - Dusclops
+      - "357"
+      - Dusclops
+      - dasclpas
+      - dasclops
+    "358":
+      synonyms:
+      - Tropius
+      - "358"
+      - Tropius
+    "359":
+      synonyms:
+      - Chimecho
+      - "359"
+      - Chimecho
+      - chaimichou
+    "360":
+      synonyms:
+      - Absol
+      - "360"
+      - Absol
+    "361":
+      synonyms:
+      - Wynaut
+      - "361"
+      - Wynaut
+      - vuainat
+    "362":
+      synonyms:
+      - Snorunt
+      - "362"
+      - Snorunt
+      - esnorant
+      - esnorunt
+    "363":
+      synonyms:
+      - Glalie
+      - "363"
+      - Glalie
+      - glali
+      - gleili
+    "364":
+      synonyms:
+      - Spheal
+      - "364"
+      - Spheal
+      - sfil
+      - esfil
+    "365":
+      synonyms:
+      - Sealeo
+      - "365"
+      - Sealeo
+      - siliou
+    "366":
+      synonyms:
+      - Walrein
+      - "366"
+      - Walrein
+      - vualrein
+    "367":
+      synonyms:
+      - Clamperl
+      - "367"
+      - Clamperl
+    "368":
+      synonyms:
+      - Huntail
+      - "368"
+      - Huntail
+      - hanteil
+      - janteil
+    "369":
+      synonyms:
+      - Gorebyss
+      - "369"
+      - Gorebyss
+      - gorebis
+    "370":
+      synonyms:
+      - Relicanth
+      - "370"
+      - Relicanth
+      - relicanz
+      - relikanz
+    "371":
+      synonyms:
+      - Luvdisc
+      - "371"
+      - Luvdisc
+      - lavdisc
+      - lavdisk
+    "372":
+      synonyms:
+      - Bagon
+      - "372"
+      - Bagon
+      - beigon
+    "373":
+      synonyms:
+      - Shelgon
+      - "373"
+      - Shelgon
+      - selgon
+    "374":
+      synonyms:
+      - Salamence
+      - "374"
+      - Salamence
+      - salamans
+    "375":
+      synonyms:
+      - Beldum
+      - "375"
+      - Beldum
+      - beldam
+    "376":
+      synonyms:
+      - Metang
+      - "376"
+      - Metang
+      - metan
+    "377":
+      synonyms:
+      - Metagross
+      - "377"
+      - Metagross
+      - metagros
+      - metagrous
+    "378":
+      synonyms:
+      - Regirock
+      - "378"
+      - Regirock
+      - relliroc
+    "379":
+      synonyms:
+      - Regice
+      - "379"
+      - Regice
+      - relliais
+    "380":
+      synonyms:
+      - Registeel
+      - "380"
+      - Registeel
+      - relliestil
+    "381":
+      synonyms:
+      - Latias
+      - "381"
+      - Latias
+    "382":
+      synonyms:
+      - Latios
+      - "382"
+      - Latios
+      - latious
+    "383":
+      synonyms:
+      - Kyogre
+      - "383"
+      - Kyogre
+      - kaiogre
+      - caiogre
+    "384":
+      synonyms:
+      - Groudon
+      - "384"
+      - Groudon
+      - graudon
+    "385":
+      synonyms:
+      - Rayquaza
+      - "385"
+      - Rayquaza
+      - raicuaza
+    "386":
+      synonyms:
+      - Jirachi
+      - "386"
+      - Jirachi
+      - hirachi
+      - irachi
+    "387":
+      synonyms:
+      - Deoxys
+      - "387"
+      - Deoxys
+      - diocsis
+      - deocsis
+    "388":
+      synonyms:
+      - Turtwig
+      - "388"
+      - Turtwig
+      - turtvig
+      - tartvig
+    "389":
+      synonyms:
+      - Grotle
+      - "389"
+      - Grotle
+      - grotel
+    "390":
+      synonyms:
+      - Torterra
+      - "390"
+      - Torterra
+      - torterra
+    "391":
+      synonyms:
+      - Chimchar
+      - "391"
+      - Chimchar
+    "392":
+      synonyms:
+      - Monferno
+      - "392"
+      - Monferno
+      - monfernou
+    "393":
+      synonyms:
+      - Infernape
+      - "393"
+      - Infernape
+      - inferneip
+    "394":
+      synonyms:
+      - Piplup
+      - "394"
+      - Piplup
+      - piplap
+    "395":
+      synonyms:
+      - Prinplup
+      - "395"
+      - Prinplup
+      - prinplap
+    "396":
+      synonyms:
+      - Empoleon
+      - "396"
+      - Empoleon
+      - empolion
+    "397":
+      synonyms:
+      - Starly
+      - "397"
+      - Starly
+      - estarli
+    "398":
+      synonyms:
+      - Staravia
+      - "398"
+      - Staravia
+      - estaravia
+      - estareivia
+    "399":
+      synonyms:
+      - Staraptor
+      - "399"
+      - Staraptor
+      - estaraptor
+    "400":
+      synonyms:
+      - Bidoof
+      - "400"
+      - Bidoof
+      - biduf
+    "401":
+      synonyms:
+      - Bibarel
+      - "401"
+      - Bibarel
+      - biberel
+    "402":
+      synonyms:
+      - Kricketot
+      - "402"
+      - Kricketot
+      - criquetot
+    "403":
+      synonyms:
+      - Kricketune
+      - "403"
+      - Kricketune
+      - kriketun
+      - criquetun
+    "404":
+      synonyms:
+      - Shinx
+      - "404"
+      - Shinx
+      - sinx
+      - sincs
+    "405":
+      synonyms:
+      - Luxio
+      - "405"
+      - lacsio
+      - lucsio
+      - lacsiou
+    "406":
+      synonyms:
+      - Luxray
+      - "406"
+      - Luxray
+      - laxrei
+      - lacsrei
+    "407":
+      synonyms:
+      - Budew
+      - "407"
+      - Budew
+      - badu
+    "408":
+      synonyms:
+      - Roserade
+      - "408"
+      - Roserade
+      - rosereid
+    "409":
+      synonyms:
+      - Cranidos
+      - "409"
+      - Cranidos
+      - cranidous
+    "410":
+      synonyms:
+      - Rampardos
+      - "410"
+      - Rampardos
+      - rampardous
+    "411":
+      synonyms:
+      - Shieldon
+      - "411"
+      - Shieldon
+      - sildon
+    "412":
+      synonyms:
+      - Bastiodon
+      - "412"
+      - Bastiodon
+      - bastioudon
+    "413":
+      synonyms:
+      - Burmy
+      - "413"
+      - Burmy
+      - barmi
+    "414":
+      synonyms:
+      - Wormadam
+      - "414"
+      - Wormadam
+      - vuormedam
+      - vuormadam
+    "415":
+      synonyms:
+      - Mothim
+      - "415"
+      - Mothim
+      - mozim
+      - mazim
+    "416":
+      synonyms:
+      - Combee
+      - "416"
+      - Combee
+      - coumbi
+      - combi
+    "417":
+      synonyms:
+      - Vespiquen
+      - "417"
+      - Vespiquen
+      - vespicuen
+      - vespikwen
+    "418":
+      synonyms:
+      - Pachirisu
+      - "418"
+      - Pachirisu
+    "419":
+      synonyms:
+      - Buizel
+      - "419"
+      - Buizel
+    "420":
+      synonyms:
+      - Floatzel
+      - "420"
+      - Floatzel
+      - floutsel
+    "421":
+      synonyms:
+      - Cherubi
+      - "421"
+      - Cherubi
+    "422":
+      synonyms:
+      - Cherrim
+      - "422"
+      - Cherrim
+      - cherim
+    "423":
+      synonyms:
+      - Shellos
+      - "423"
+      - Shellos
+      - selos
+      - selas
+    "424":
+      synonyms:
+      - Gastrodon
+      - "424"
+      - Gastrodon
+      - gastroudon
+    "425":
+      synonyms:
+      - Ambipom
+      - "425"
+      - Ambipom
+      - ambipam
+    "426":
+      synonyms:
+      - Drifloon
+      - "426"
+      - Drifloon
+      - driflun
+      - driflon
+    "427":
+      synonyms:
+      - Drifblim
+      - "427"
+      - Drifblim
+    "428":
+      synonyms:
+      - Buneary
+      - "428"
+      - Buneary
+      - baniri
+      - buniri
+    "429":
+      synonyms:
+      - Lopunny
+      - "429"
+      - Lopunny
+      - lopuni
+    "430":
+      synonyms:
+      - Mismagius
+      - "430"
+      - Mismagius
+      - mismegios
+    "431":
+      synonyms:
+      - Honchkrow
+      - "431"
+      - honchcrou
+      - onchcrou
+      - jonchcrou
+    "432":
+      synonyms:
+      - Glameow
+      - "432"
+      - Glameow
+      - glamiou
+      - glamiau
+    "433":
+      synonyms:
+      - Purugly
+      - "433"
+      - Purugly
+      - purgli
+    "434":
+      synonyms:
+      - Chingling
+      - "434"
+      - Chingling
+    "435":
+      synonyms:
+      - Stunky
+      - "435"
+      - estanki
+      - stanki
+      - estanqui
+    "436":
+      synonyms:
+      - Skuntank
+      - "436"
+      - Skuntank
+      - eskantank
+      - escantanc
+    "437":
+      synonyms:
+      - Bronzor
+      - "437"
+      - Bronzor
+      - bronsor
+    "438":
+      synonyms:
+      - Bronzong
+      - "438"
+      - Bronzong
+      - bronsong
+    "439":
+      synonyms:
+      - Bonsly
+      - "439"
+      - Bonsly
+      - bansli
+      - bonsli
+    "440":
+      synonyms:
+      - Mime Jr.
+      - "440"
+      - Mime Jr.
+      - maim junior
+      - main llunior
+    "441":
+      synonyms:
+      - Happiny
+      - "441"
+      - japini
+      - apini
+      - japini
+    "442":
+      synonyms:
+      - Chatot
+      - "442"
+      - Chatot
+    "443":
+      synonyms:
+      - Spiritomb
+      - "443"
+      - Spiritomb
+      - espiritom
+    "444":
+      synonyms:
+      - Gible
+      - "444"
+      - Gible
+      - gibel
+      - guibel
+    "445":
+      synonyms:
+      - Gabite
+      - "445"
+      - Gabite
+      - gabiat
+      - guebait
+    "446":
+      synonyms:
+      - Garchomp
+      - "446"
+      - Garchomp
+    "447":
+      synonyms:
+      - Munchlax
+      - "447"
+      - Munchlax
+      - manchlacs
+    "448":
+      synonyms:
+      - Riolu
+      - "448"
+      - Riolu
+      - rioulu
+    "449":
+      synonyms:
+      - Lucario
+      - "449"
+      - Lucario
+      - lucariou
+    "450":
+      synonyms:
+      - Hippopotas
+      - "450"
+      - Hippopotas
+      - ipoupotas
+      - hipoupotas
+    "451":
+      synonyms:
+      - Hippowdon
+      - "451"
+      - Hippowdon
+      - ipoudon
+      - hipoudon
+    "452":
+      synonyms:
+      - Skorupi
+      - "452"
+      - Skorupi
+      - scorupi
+    "453":
+      synonyms:
+      - Drapion
+      - "453"
+      - Drapion
+    "454":
+      synonyms:
+      - Croagunk
+      - "454"
+      - Croagunk
+      - crougank
+      - crouganc
+    "455":
+      synonyms:
+      - Toxicroak
+      - "455"
+      - Toxicroak
+      - toxicrouc
+      - tocsicrouc
+    "456":
+      synonyms:
+      - Carnivine
+      - "456"
+      - Carnivine
+      - carnivain
+    "457":
+      synonyms:
+      - Finneon
+      - "457"
+      - Finneon
+      - finion
+    "458":
+      synonyms:
+      - Lumineon
+      - "458"
+      - Lumineon
+      - luminion
+    "459":
+      synonyms:
+      - Mantyke
+      - "459"
+      - Mantyke
+      - mantaic
+    "460":
+      synonyms:
+      - Snover
+      - "460"
+      - Snover
+      - snouver
+      - snouve
+    "461":
+      synonyms:
+      - Abomasnow
+      - "461"
+      - Abomasnow
+      - abomasnou
+    "462":
+      synonyms:
+      - Weavile
+      - "462"
+      - Weavile
+      - uivail
+      - vuivail
+    "463":
+      synonyms:
+      - Magnezone
+      - "463"
+      - Magnezone
+      - magnezoun
+      - magnesoun
+    "464":
+      synonyms:
+      - Lickilicky
+      - "464"
+      - Lickilicky
+      - likiliki
+    "465":
+      synonyms:
+      - Rhyperior
+      - "465"
+      - Rhyperior
+      - raipirior
+    "466":
+      synonyms:
+      - Tangrowth
+      - "466"
+      - Tangrowth
+      - tangrouz
+    "467":
+      synonyms:
+      - Electivire
+      - "467"
+      - Electivire
+      - electeviar
+    "468":
+      synonyms:
+      - Magmortar
+      - "468"
+      - Magmortar
+    "469":
+      synonyms:
+      - Togekiss
+      - "469"
+      - Togekiss
+      - toguekis
+      - touguekis
+    "470":
+      synonyms:
+      - Yanmega
+      - "470"
+      - Yanmega
+      - llanmega
+    "471":
+      synonyms:
+      - Leafeon
+      - "471"
+      - Leafeon
+      - lifon
+    "472":
+      synonyms:
+      - Glaceon
+      - "472"
+      - Glaceon
+      - gelision
+    "473":
+      synonyms:
+      - Gliscor
+      - "473"
+      - Gliscor
+      - glaiscor
+      - glaiskor
+    "474":
+      synonyms:
+      - Mamoswine
+      - "474"
+      - Mamoswine
+      - mamousuain
+      - mamousain
+    "475":
+      synonyms:
+      - Porygon-Z
+      - "475"
+      - Porygon-Z
+      - porigon zeta
+    "476":
+      synonyms:
+      - Gallade
+      - "476"
+      - Gallade
+      - galeid
+      - galaid
+    "477":
+      synonyms:
+      - Probopass
+      - "477"
+      - Probopass
+      - probopas
+      - prouboupas
+    "478":
+      synonyms:
+      - Dusknoir
+      - "478"
+      - Dusknoir
+      - dasknoir
+      - dasknair
+    "479":
+      synonyms:
+      - Froslass
+      - "479"
+      - Froslass
+      - froslas
+    "480":
+      synonyms:
+      - Rotom
+      - "480"
+      - Rotom
+      - routom
+    "481":
+      synonyms:
+      - Uxie
+      - "481"
+      - Uxie
+      - uksi
+    "482":
+      synonyms:
+      - Mesprit
+      - "482"
+      - Mesprit
+    "483":
+      synonyms:
+      - Azelf
+      - "483"
+      - Azelf
+      - aslef
+    "484":
+      synonyms:
+      - Dialga
+      - "484"
+      - Dialga
+    "485":
+      synonyms:
+      - Palkia
+      - "485"
+      - Palkia
+    "486":
+      synonyms:
+      - Heatran
+      - "486"
+      - Heatran
+      - hitran
+      - itran
+    "487":
+      synonyms:
+      - Regigigas
+      - "487"
+      - Regigigas
+      - relligas
+    "488":
+      synonyms:
+      - Giratina
+      - "488"
+      - Giratina
+      - lliratina
+    "489":
+      synonyms:
+      - Cresselia
+      - "489"
+      - Cresselia
+    "490":
+      synonyms:
+      - Phione
+      - "490"
+      - Phione
+      - fione
+      - fionei
+    "491":
+      synonyms:
+      - Manaphy
+      - "491"
+      - Manaphy
+      - manafi
+    "492":
+      synonyms:
+      - Darkrai
+      - "492"
+      - Darkrai
+    "493":
+      synonyms:
+      - Shaymin
+      - "493"
+      - Shaymin
+      - seimin
+      - saimin
+    "494":
+      synonyms:
+      - Arceus
+      - "494"
+      - arkies
+      - arkius
+      - arkios
+    "495":
+      synonyms:
+      - Victini
+      - "495"
+      - Victini
+    "496":
+      synonyms:
+      - Snivy
+      - "496"
+      - Snivy
+      - snaivi
+      - snivi
+    "497":
+      synonyms:
+      - Servine
+      - "497"
+      - Servine
+      - servain
+      - servin
+    "498":
+      synonyms:
+      - Serperior
+      - "498"
+      - Serperior
+      - serpirior
+    "499":
+      synonyms:
+      - Tepig
+      - "499"
+      - Tepig
+    "500":
+      synonyms:
+      - Pignite
+      - "500"
+      - Pignite
+      - pignait
+    "501":
+      synonyms:
+      - Emboar
+      - "501"
+      - Emboar
+      - embor
+    "502":
+      synonyms:
+      - Oshawott
+      - "502"
+      - Oshawott
+      - osavuot
+      - osavot
+    "503":
+      synonyms:
+      - Dewott
+      - "503"
+      - duvot
+      - devuot
+      - devot
+    "504":
+      synonyms:
+      - Samurott
+      - "504"
+      - Samurott
+      - samurot
+    "505":
+      synonyms:
+      - Patrat
+      - "505"
+      - Patrat
+    "506":
+      synonyms:
+      - Watchog
+      - "506"
+      - Watchog
+      - guatchdog
+      - vuatchdog
+    "507":
+      synonyms:
+      - Lillipup
+      - "507"
+      - Lillipup
+      - lilipap
+    "508":
+      synonyms:
+      - Herdier
+      - "508"
+      - jerdier
+      - erdier
+      - herdier
+    "509":
+      synonyms:
+      - Stoutland
+      - "509"
+      - Stoutland
+      - stautland
+      - estautland
+    "510":
+      synonyms:
+      - Purrloin
+      - "510"
+      - Purrloin
+      - purloin
+      - perloin
+    "511":
+      synonyms:
+      - Liepard
+      - "511"
+      - Liepard
+      - laipard
+    "512":
+      synonyms:
+      - Pansage
+      - "512"
+      - Pansage
+      - pnaseich
+    "513":
+      synonyms:
+      - Simisage
+      - "513"
+      - Simisage
+      - simiseich
+    "514":
+      synonyms:
+      - Pansear
+      - "514"
+      - Pansear
+      - pansir
+    "515":
+      synonyms:
+      - Simisear
+      - "515"
+      - Simisear
+      - simisir
+    "516":
+      synonyms:
+      - Panpour
+      - "516"
+      - Panpour
+      - panpor
+    "517":
+      synonyms:
+      - Simipour
+      - "517"
+      - Simipour
+      - simisor
+    "518":
+      synonyms:
+      - Munna
+      - "518"
+      - Munna
+      - muna
+    "519":
+      synonyms:
+      - Musharna
+      - "519"
+      - Musharna
+      - musarna
+    "520":
+      synonyms:
+      - Pidove
+      - "520"
+      - Pidove
+      - pidav
+    "521":
+      synonyms:
+      - Tranquill
+      - "521"
+      - Tranquill
+      - trankuil
+      - tranquil
+    "522":
+      synonyms:
+      - Unfezant
+      - "522"
+      - Unfezant
+      - anfezent
+      - anfesent
+    "523":
+      synonyms:
+      - Blitzle
+      - "523"
+      - Blitzle
+      - blitsel
+    "524":
+      synonyms:
+      - Zebstrika
+      - "524"
+      - Zebstrika
+    "525":
+      synonyms:
+      - Roggenrola
+      - "525"
+      - Roggenrola
+      - ragenroula
+      - ragenrola
+    "526":
+      synonyms:
+      - Boldore
+      - "526"
+      - Boldore
+      - boldor
+    "527":
+      synonyms:
+      - Gigalith
+      - "527"
+      - Gigalith
+      - gigaliz
+    "528":
+      synonyms:
+      - Woobat
+      - "528"
+      - Woobat
+      - vubat
+    "529":
+      synonyms:
+      - Swoobat
+      - "529"
+      - Swoobat
+      - esvubat
+    "530":
+      synonyms:
+      - Drilbur
+      - "530"
+      - Drilbur
+    "531":
+      synonyms:
+      - Excadrill
+      - "531"
+      - Excadrill
+      - ecsadril
+    "532":
+      synonyms:
+      - Audino
+      - "532"
+      - Audino
+      - adinou
+      - adino
+    "533":
+      synonyms:
+      - Timburr
+      - "533"
+      - Timburr
+      - timbur
+    "534":
+      synonyms:
+      - Gurdurr
+      - "534"
+      - Gurdurr
+      - gurdur
+    "535":
+      synonyms:
+      - Conkeldurr
+      - "535"
+      - Conkeldurr
+      - conkeldur
+      - conqueldur
+    "536":
+      synonyms:
+      - Tympole
+      - "536"
+      - Tympole
+      - timpol
+    "537":
+      synonyms:
+      - Palpitoad
+      - "537"
+      - Palpitoad
+      - paliptoud
+    "538":
+      synonyms:
+      - Seismitoad
+      - "538"
+      - Seismitoad
+      - saismitoud
+      - seismitoud
+    "539":
+      synonyms:
+      - Throh
+      - "539"
+      - Throh
+      - zrou
+      - zro
+    "540":
+      synonyms:
+      - Sawk
+      - "540"
+      - Sawk
+      - sauk
+      - sak
+    "541":
+      synonyms:
+      - Sewaddle
+      - "541"
+      - Sewaddle
+      - sevuadel
+      - sewadel
+    "542":
+      synonyms:
+      - Swadloon
+      - "542"
+      - Swadloon
+      - suadlun
+      - swuadlun
+    "543":
+      synonyms:
+      - Leavanny
+      - "543"
+      - Leavanny
+      - livani
+    "544":
+      synonyms:
+      - Venipede
+      - "544"
+      - Venipede
+      - venipid
+    "545":
+      synonyms:
+      - Whirlipede
+      - "545"
+      - Whirlipede
+      - vuirlipid
+      - wirlipid
+    "546":
+      synonyms:
+      - Scolipede
+      - "546"
+      - Scolipede
+      - escoulipid
+      - scoulipid
+    "547":
+      synonyms:
+      - Cottonee
+      - "547"
+      - Cottonee
+      - cotoni
+    "548":
+      synonyms:
+      - Whimsicott
+      - "548"
+      - Whimsicott
+      - vuismicot
+      - wismicot
+    "549":
+      synonyms:
+      - Petilil
+      - "549"
+      - Petilil
+    "550":
+      synonyms:
+      - Lilligant
+      - "550"
+      - Lilligant
+      - lilegant
+    "551":
+      synonyms:
+      - Basculin
+      - "551"
+      - Basculin
+    "552":
+      synonyms:
+      - Sandile
+      - "552"
+      - Sandile
+      - sandail
+    "553":
+      synonyms:
+      - Krokorok
+      - "553"
+      - Krokorok
+      - krokourok
+    "554":
+      synonyms:
+      - Krookodile
+      - "554"
+      - Krookodile
+      - crocroudail
+    "555":
+      synonyms:
+      - Darumaka
+      - "555"
+      - Darumaka
+    "556":
+      synonyms:
+      - Darmanitan
+      - "556"
+      - Darmanitan
+    "557":
+      synonyms:
+      - Maractus
+      - "557"
+      - Maractus
+    "558":
+      synonyms:
+      - Dwebble
+      - "558"
+      - Dwebble
+      - duebel
+    "559":
+      synonyms:
+      - Crustle
+      - "559"
+      - Crustle
+      - crastel
+    "560":
+      synonyms:
+      - Scraggy
+      - "560"
+      - Scraggy
+      - escragui
+      - escragui
+    "561":
+      synonyms:
+      - Scrafty
+      - "561"
+      - Scrafty
+      - escrafti
+    "562":
+      synonyms:
+      - Sigilyph
+      - "562"
+      - Sigilyph
+      - siglif
+    "563":
+      synonyms:
+      - Yamask
+      - "563"
+      - Yamask
+      - llamask
+      - llamask
+    "564":
+      synonyms:
+      - Cofagrigus
+      - "564"
+      - Cofagrigus
+      - cofragigas
+    "565":
+      synonyms:
+      - Tirtouga
+      - "565"
+      - Tirtouga
+      - trituga
+    "566":
+      synonyms:
+      - Carracosta
+      - "566"
+      - Carracosta
+    "567":
+      synonyms:
+      - Archen
+      - "567"
+      - Archen
+      - arken
+      - arquen
+    "568":
+      synonyms:
+      - Archeops
+      - "568"
+      - Archeops
+      - arkeops
+      - arqueops
+    "569":
+      synonyms:
+      - Trubbish
+      - "569"
+      - Trubbish
+      - trabis
+      - trubis
+    "570":
+      synonyms:
+      - Garbodor
+      - "570"
+      - Garbodor
+      - garboudor
+    "571":
+      synonyms:
+      - Zorua
+      - "571"
+      - Zorua
+    "572":
+      synonyms:
+      - Zoroark
+      - "572"
+      - Zoroark
+      - zorouark
+    "573":
+      synonyms:
+      - Minccino
+      - "573"
+      - Minccino
+      - minchino
+    "574":
+      synonyms:
+      - Cinccino
+      - "574"
+      - chinchino
+      - cinchino
+      - sinchino
+    "575":
+      synonyms:
+      - Gothita
+      - "575"
+      - got ita
+      - got hita
+      - gotita
+    "576":
+      synonyms:
+      - Gothorita
+      - "576"
+      - got orita
+      - got horita
+      - gotorita
+    "577":
+      synonyms:
+      - Gothitelle
+      - "577"
+      - got itel
+      - got hitel
+      - gotitel
+    "578":
+      synonyms:
+      - Solosis
+      - "578"
+      - Solosis
+      - solousis
+    "579":
+      synonyms:
+      - Duosion
+      - "579"
+      - Duosion
+      - duouson
+      - duousion
+    "580":
+      synonyms:
+      - Reuniclus
+      - "580"
+      - Reuniclus
+      - riuninkles
+      - reuninclas
+    "581":
+      synonyms:
+      - Ducklett
+      - "581"
+      - Ducklett
+      - daclet
+    "582":
+      synonyms:
+      - Swanna
+      - "582"
+      - Swanna
+      - suana
+    "583":
+      synonyms:
+      - Vanillite
+      - "583"
+      - Vanillite
+      - vanilait
+    "584":
+      synonyms:
+      - Vanillish
+      - "584"
+      - Vanillish
+      - vanilis
+    "585":
+      synonyms:
+      - Vanilluxe
+      - "585"
+      - Vanilluxe
+      - vaniluks
+      - vanilaks
+    "586":
+      synonyms:
+      - Deerling
+      - "586"
+      - Deerling
+      - dirlin
+      - dirling
+    "587":
+      synonyms:
+      - Sawsbuck
+      - "587"
+      - Sawsbuck
+      - sasbak
+      - sausbak
+    "588":
+      synonyms:
+      - Emolga
+      - "588"
+      - Emolga
+    "589":
+      synonyms:
+      - Karrablast
+      - "589"
+      - Karrablast
+      - karablast
+      - carablast
+    "590":
+      synonyms:
+      - Escavalier
+      - "590"
+      - Escavalier
+      - escavelir
+    "591":
+      synonyms:
+      - Foongus
+      - "591"
+      - Foongus
+      - fungus
+    "592":
+      synonyms:
+      - Amoonguss
+      - "592"
+      - Amoonguss
+      - amungus
+    "593":
+      synonyms:
+      - Frillish
+      - "593"
+      - Frillish
+      - frilis
+    "594":
+      synonyms:
+      - Jellicent
+      - "594"
+      - Jellicent
+      - llelisent
+      - jelisent
+    "595":
+      synonyms:
+      - Alomomola
+      - "595"
+      - Alomomola
+      - aloumomoula
+    "596":
+      synonyms:
+      - Joltik
+      - "596"
+      - Joltik
+      - lloltik
+    "597":
+      synonyms:
+      - Galvantula
+      - "597"
+      - Galvantula
+    "598":
+      synonyms:
+      - Ferroseed
+      - "598"
+      - Ferroseed
+      - ferrosid
+    "599":
+      synonyms:
+      - Ferrothorn
+      - "599"
+      - Ferrothorn
+      - ferrozorn
+    "600":
+      synonyms:
+      - Klink
+      - "600"
+      - Klink
+    "601":
+      synonyms:
+      - Klang
+      - "601"
+      - Klang
+    "602":
+      synonyms:
+      - Klinklang
+      - "602"
+      - Klinklang
+    "603":
+      synonyms:
+      - Tynamo
+      - "603"
+      - Tynamo
+      - tinamo
+      - tainamou
+    "604":
+      synonyms:
+      - Eelektrik
+      - "604"
+      - Eelektrik
+      - ilectric
+      - iltektrik
+    "605":
+      synonyms:
+      - Eelektross
+      - "605"
+      - Eelektross
+      - ilektrok
+      - ilectroc
+    "606":
+      synonyms:
+      - Elgyem
+      - "606"
+      - Elgyem
+      - el lliem
+      - ellliem
+    "607":
+      synonyms:
+      - Beheeyem
+      - "607"
+      - Beheeyem
+      - bihillem
+      - bijillem
+    "608":
+      synonyms:
+      - Litwick
+      - "608"
+      - Litwick
+      - tivic
+      - litvuik
+    "609":
+      synonyms:
+      - Lampent
+      - "609"
+      - Lampent
+    "610":
+      synonyms:
+      - Chandelure
+      - "610"
+      - Chandelure
+      - sandelor
+      - cahandelor
+    "611":
+      synonyms:
+      - Axew
+      - "611"
+      - Axew
+      - aksu
+      - akseu
+    "612":
+      synonyms:
+      - Fraxure
+      - "612"
+      - Fraxure
+      - frakser
+      - fraksur
+    "613":
+      synonyms:
+      - Haxorus
+      - "613"
+      - Haxorus
+      - aksorus
+    "614":
+      synonyms:
+      - Cubchoo
+      - "614"
+      - Cubchoo
+      - cubchu
+      - cabchu
+    "615":
+      synonyms:
+      - Beartic
+      - "615"
+      - Beartic
+      - bertik
+      - bertic
+    "616":
+      synonyms:
+      - Cryogonal
+      - "616"
+      - Cryogonal
+      - craiogonoal
+      - criogonal
+    "617":
+      synonyms:
+      - Shelmet
+      - "617"
+      - Shelmet
+      - selmet
+    "618":
+      synonyms:
+      - Accelgor
+      - "618"
+      - Accelgor
+      - acselgor
+    "619":
+      synonyms:
+      - Stunfisk
+      - "619"
+      - Stunfisk
+      - stanfisk
+    "620":
+      synonyms:
+      - Mienfoo
+      - "620"
+      - Mienfoo
+      - minfu
+      - mienfu
+    "621":
+      synonyms:
+      - Mienshao
+      - "621"
+      - Mienshao
+      - miensao
+      - miensau
+    "622":
+      synonyms:
+      - Druddigon
+      - "622"
+      - Druddigon
+      - dradigon
+      - drudigon
+    "623":
+      synonyms:
+      - Golett
+      - "623"
+      - Golett
+      - golet
+    "624":
+      synonyms:
+      - Golurk
+      - "624"
+      - Golurk
+    "625":
+      synonyms:
+      - Pawniard
+      - "625"
+      - Pawniard
+      - paniard
+      - poniard
+    "626":
+      synonyms:
+      - Bisharp
+      - "626"
+      - Bisharp
+      - bisarp
+    "627":
+      synonyms:
+      - Bouffalant
+      - "627"
+      - Bouffalant
+      - bufelant
+    "628":
+      synonyms:
+      - Rufflet
+      - "628"
+      - Rufflet
+      - raflet
+    "629":
+      synonyms:
+      - Braviary
+      - "629"
+      - Braviary
+      - braiviry
+      - braviari
+    "630":
+      synonyms:
+      - Vullaby
+      - "630"
+      - Vullaby
+      - valabay
+      - vulabai
+    "631":
+      synonyms:
+      - Mandibuzz
+      - "631"
+      - Mandibuzz
+      - mandibaz
+      - mandibas
+    "632":
+      synonyms:
+      - Heatmor
+      - "632"
+      - jitmor
+      - hitmor
+      - itmor
+    "633":
+      synonyms:
+      - Durant
+      - "633"
+      - Durant
+    "634":
+      synonyms:
+      - Deino
+      - "634"
+      - Deino
+      - deinou
+    "635":
+      synonyms:
+      - Zweilous
+      - "635"
+      - Zweilous
+      - tsvail0s
+      - etsvailos
+    "636":
+      synonyms:
+      - Hydreigon
+      - "636"
+      - jydreigon
+      - haidragon
+      - aidragon
+    "637":
+      synonyms:
+      - Larvesta
+      - "637"
+      - Larvesta
+    "638":
+      synonyms:
+      - Volcarona
+      - "638"
+      - Volcarona
+      - volcarouna
+    "639":
+      synonyms:
+      - Cobalion
+      - "639"
+      - Cobalion
+      - coubailion
+    "640":
+      synonyms:
+      - Terrakion
+      - "640"
+      - Terrakion
+    "641":
+      synonyms:
+      - Virizion
+      - "641"
+      - Virizion
+      - verizion
+    "642":
+      synonyms:
+      - Tornadus
+      - "642"
+      - Tornadus
+    "643":
+      synonyms:
+      - Thundurus
+      - "643"
+      - Thundurus
+      - zandurus
+      - zandorus
+    "644":
+      synonyms:
+      - Reshiram
+      - "644"
+      - Reshiram
+      - resiram
+    "645":
+      synonyms:
+      - Zekrom
+      - "645"
+      - Zekrom
+    "646":
+      synonyms:
+      - Landorus
+      - "646"
+      - Landorus
+      - landoros
+      - landorus
+    "647":
+      synonyms:
+      - Kyurem
+      - "647"
+      - Kyurem
+    "648":
+      synonyms:
+      - Keldeo
+      - "648"
+      - Keldeo
+      - keldiou
+      - keldio
+    "649":
+      synonyms:
+      - Meloetta
+      - "649"
+      - melouera
+      - meloueta
+      - meloeta
+    "650":
+      synonyms:
+      - Genesect
+      - "650"
+      - Genesect
+      - llenesect
+    "651":
+      synonyms:
+      - Chespin
+      - "651"
+      - Chespin
+    "652":
+      synonyms:
+      - Quilladin
+      - "652"
+      - Quilladin
+      - cuiladin
+      - kwuiladin
+    "653":
+      synonyms:
+      - Chesnaught
+      - "653"
+      - Chesnaught
+      - chesnot
+      - chesnaut
+    "654":
+      synonyms:
+      - Fennekin
+      - "654"
+      - Fennekin
+      - fenekin
+    "655":
+      synonyms:
+      - Braixen
+      - "655"
+      - Braixen
+      - breiksin
+      - breiksen
+    "656":
+      synonyms:
+      - Delphox
+      - "656"
+      - Delphox
+      - delfox
+    "657":
+      synonyms:
+      - Froakie
+      - "657"
+      - Froakie
+      - frouki
+    "658":
+      synonyms:
+      - Frogadier
+      - "658"
+      - Frogadier
+      - frogadir
+    "659":
+      synonyms:
+      - Greninja
+      - "659"
+      - Greninja
+      - greninlla
+    "660":
+      synonyms:
+      - Bunnelby
+      - "660"
+      - Bunnelby
+      - banelbi
+    "661":
+      synonyms:
+      - Diggersby
+      - "661"
+      - Diggersby
+      - difersby
+    "662":
+      synonyms:
+      - Fletchling
+      - "662"
+      - Fletchling
+      - fletchlin
+    "663":
+      synonyms:
+      - Fletchinder
+      - "663"
+      - Fletchinder
+      - fletchinda
+    "664":
+      synonyms:
+      - Talonflame
+      - "664"
+      - Talonflame
+      - talonfleim
+    "665":
+      synonyms:
+      - Scatterbug
+      - "665"
+      - Scatterbug
+      - escaterbag
+      - escaterbug
+    "666":
+      synonyms:
+      - Spewpa
+      - "666"
+      - Spewpa
+      - espeupa
+      - espiupa
+    "667":
+      synonyms:
+      - Vivillon
+      - "667"
+      - Vivillon
+    "668":
+      synonyms:
+      - Litleo
+      - "668"
+      - Litleo
+      - litliou
+      - litlio
+    "669":
+      synonyms:
+      - Pyroar
+      - "669"
+      - Pyroar
+      - pairoar
+      - piroar
+    "670":
+      synonyms:
+      - Flabebe
+      - "670"
+      - Flabebe
+      - flabebe
+      - flabeibei
+    "671":
+      synonyms:
+      - Floette
+      - "671"
+      - Floette
+      - flouet
+      - floet
+    "672":
+      synonyms:
+      - Florges
+      - "672"
+      - Florges
+      - florgues
+    "673":
+      synonyms:
+      - Skiddo
+      - "673"
+      - Skiddo
+      - eskido
+      - eskidou
+    "674":
+      synonyms:
+      - Gogoat
+      - "674"
+      - Gogoat
+      - gougout
+      - gougoat
+    "675":
+      synonyms:
+      - Pancham
+      - "675"
+      - Pancham
+    "676":
+      synonyms:
+      - Pangoro
+      - "676"
+      - Pangoro
+      - pangorou
+    "677":
+      synonyms:
+      - Furfrou
+      - "677"
+      - Furfrou
+      - furfru
+    "678":
+      synonyms:
+      - Espurr
+      - "678"
+      - Espurr
+      - espur
+      - espar
+    "679":
+      synonyms:
+      - Meowstic
+      - "679"
+      - Meowstic
+      - miustic
+      - miaustic
+    "680":
+      synonyms:
+      - Honedge
+      - "680"
+      - Honedge
+      - houendch
+      - houendll
+    "681":
+      synonyms:
+      - Doublade
+      - "681"
+      - Doublade
+      - dableid
+      - daubleid
+    "682":
+      synonyms:
+      - Aegislash
+      - "682"
+      - egislas
+      - illislas
+      - allislas
+    "683":
+      synonyms:
+      - Spritzee
+      - "683"
+      - Spritzee
+      - espritsi
+      - esprizi
+    "684":
+      synonyms:
+      - Aromatisse
+      - "684"
+      - Aromatisse
+      - aromatis
+      - aroumatis
+    "685":
+      synonyms:
+      - Swirlix
+      - "685"
+      - Swirlix
+      - suirliks
+    "686":
+      synonyms:
+      - Slurpuff
+      - "686"
+      - slarpaf
+      - slurpaf
+      - slurpuf
+    "687":
+      synonyms:
+      - Inkay
+      - "687"
+      - Inkay
+      - inkai
+      - inkei
+    "688":
+      synonyms:
+      - Malamar
+      - "688"
+      - Malamar
+    "689":
+      synonyms:
+      - Binacle
+      - "689"
+      - Binacle
+      - bainacol
+    "690":
+      synonyms:
+      - Barbaracle
+      - "690"
+      - Barbaracle
+      - barbaracol
+    "691":
+      synonyms:
+      - Skrelp
+      - "691"
+      - Skrelp
+    "692":
+      synonyms:
+      - Dragalge
+      - "692"
+      - Dragalge
+      - dragalch
+      - dragal
+    "693":
+      synonyms:
+      - Clauncher
+      - "693"
+      - Clauncher
+      - clancher
+    "694":
+      synonyms:
+      - Clawitzer
+      - "694"
+      - Clawitzer
+      - clavitser
+    "695":
+      synonyms:
+      - Helioptile
+      - "695"
+      - Helioptile
+      - ilioptail
+      - elioptail
+    "696":
+      synonyms:
+      - Heliolisk
+      - "696"
+      - eliolisk
+      - ilioulisk
+      - elioulisk
+    "697":
+      synonyms:
+      - Tyrunt
+      - "697"
+      - Tyrunt
+      - tirant
+      - tairant
+    "698":
+      synonyms:
+      - Tyrantrum
+      - "698"
+      - Tyrantrum
+      - tirantrum
+      - tirantram
+    "699":
+      synonyms:
+      - Amaura
+      - "699"
+      - Amaura
+      - amora
+    "700":
+      synonyms:
+      - Aurorus
+      - "700"
+      - Aurorus
+      - aroros
+      - auroros
+    "701":
+      synonyms:
+      - Sylveon
+      - "701"
+      - Sylveon
+      - silvion
+      - silveon
+    "702":
+      synonyms:
+      - Hawlucha
+      - "702"
+      - Hawlucha
+      - aulucha
+      - olucha
+    "703":
+      synonyms:
+      - Dedenne
+      - "703"
+      - Dedenne
+      - dedenei
+      - dedene
+    "704":
+      synonyms:
+      - Carbink
+      - "704"
+      - Carbink
+    "705":
+      synonyms:
+      - Goomy
+      - "705"
+      - Goomy
+      - gumi
+    "706":
+      synonyms:
+      - Sliggoo
+      - "706"
+      - Sliggoo
+      - sligu
+      - esligu
+    "707":
+      synonyms:
+      - Goodra
+      - "707"
+      - Goodra
+      - gudra
+    "708":
+      synonyms:
+      - Klefki
+      - "708"
+      - Klefki
+    "709":
+      synonyms:
+      - Phantump
+      - "709"
+      - Phantump
+      - fantamp
+      - fantump
+    "710":
+      synonyms:
+      - Trevenant
+      - "710"
+      - Trevenant
+      - trevenint
+    "711":
+      synonyms:
+      - Pumpkaboo
+      - "711"
+      - Pumpkaboo
+      - pampkabu
+      - pumpkabu
+    "712":
+      synonyms:
+      - Gourgeist
+      - "712"
+      - Gourgeist
+      - gorgaist
+      - gorgeist
+    "713":
+      synonyms:
+      - Bergmite
+      - "713"
+      - Bergmite
+      - bermait
+    "714":
+      synonyms:
+      - Avalugg
+      - "714"
+      - Avalugg
+      - avalug
+      - avalag
+    "715":
+      synonyms:
+      - Noibat
+      - "715"
+      - Noibat
+    "716":
+      synonyms:
+      - Noivern
+      - "716"
+      - Noivern
+    "717":
+      synonyms:
+      - Xerneas
+      - "717"
+      - Xerneas
+      - serneas
+    "718":
+      synonyms:
+      - Yveltal
+      - "718"
+      - Yveltal
+      - iveltal
+    "719":
+      synonyms:
+      - Zygarde
+      - "719"
+      - Zygarde
+      - zaigard
+    "720":
+      synonyms:
+      - Diancie
+      - "720"
+      - Diancie
+      - daiansi
+    "721":
+      synonyms:
+      - Hoopa
+      - "721"
+      - Hoopa
+      - upa
+      - hupa
+    "722":
+      synonyms:
+      - Volcanion
+      - "722"
+      - Volcanion
+      - volcainion
+    "723":
+      synonyms:
+      - Rowlet
+      - "723"
+      - Rowlet
+      - raulet
+      - roulet
+    "724":
+      synonyms:
+      - Dartrix
+      - "724"
+      - Dartrix
+      - datrics
+      - daitrics
+    "725":
+      synonyms:
+      - Decidueye
+      - "725"
+      - Decidueye
+      - deciduai
+      - desiduai
+    "726":
+      synonyms:
+      - Litten
+      - "726"
+      - Litten
+      - liten
+      - liren
+    "727":
+      synonyms:
+      - Torracat
+      - "727"
+      - Torracat
+      - toracat
+    "728":
+      synonyms:
+      - Incineroar
+      - "728"
+      - Incineroar
+      - insineroar
+      - incineror
+    "729":
+      synonyms:
+      - Popplio
+      - "729"
+      - Popplio
+      - popliou
+    "730":
+      synonyms:
+      - Brionne
+      - "730"
+      - Brionne
+      - brion
+    "731":
+      synonyms:
+      - Primarina
+      - "731"
+      - Primarina
+    "732":
+      synonyms:
+      - Pikipek
+      - "732"
+      - Pikipek
+    "733":
+      synonyms:
+      - Trumbeak
+      - "733"
+      - Trumbeak
+      - trambik
+      - tumbik
+    "734":
+      synonyms:
+      - Toucannon
+      - "734"
+      - Toucannon
+      - tucanon
+    "735":
+      synonyms:
+      - Yungoos
+      - "735"
+      - Yungoos
+      - llangus
+      - llungus
+    "736":
+      synonyms:
+      - Gumshoos
+      - "736"
+      - Gumshoos
+      - gamsus
+      - gumsus
+    "737":
+      synonyms:
+      - Grubbin
+      - "737"
+      - Grubbin
+      - grabin
+      - grubin
+    "738":
+      synonyms:
+      - Charjabug
+      - "738"
+      - Charjabug
+      - charllabag
+      - charllabug
+    "739":
+      synonyms:
+      - Vikavolt
+      - "739"
+      - Vikavolt
+      - vaikavolt
+    "740":
+      synonyms:
+      - Crabrawler
+      - "740"
+      - crabroler
+      - crabraler
+      - crabrouler
+    "741":
+      synonyms:
+      - Crabominable
+      - "741"
+      - Crabominable
+      - crabominabel
+      - crabominabol
+    "742":
+      synonyms:
+      - Oricorio
+      - "742"
+      - Oricorio
+      - oricoriou
+    "743":
+      synonyms:
+      - Cutiefly
+      - "743"
+      - Cutiefly
+      - cutifai
+      - quiutifai
+    "744":
+      synonyms:
+      - Ribombee
+      - "744"
+      - Ribombee
+      - ribombi
+    "745":
+      synonyms:
+      - Rockruff
+      - "745"
+      - Rockruff
+      - rokraf
+      - rocraf
+    "746":
+      synonyms:
+      - Lycanroc
+      - "746"
+      - Lycanroc
+      - licanroc
+      - laicanroc
+    "747":
+      synonyms:
+      - Wishiwashi
+      - "747"
+      - Wishiwashi
+      - wisiwasi
+      - vuisivuasi
+    "748":
+      synonyms:
+      - Mareanie
+      - "748"
+      - Mareanie
+      - marini
+    "749":
+      synonyms:
+      - Toxapex
+      - "749"
+      - Toxapex
+      - tocsapecs
+    "750":
+      synonyms:
+      - Mudbray
+      - "750"
+      - Mudbray
+      - madbrei
+      - mudbrei
+    "751":
+      synonyms:
+      - Mudsdale
+      - "751"
+      - Mudsdale
+      - mudsdeil
+      - madsdeil
+    "752":
+      synonyms:
+      - Dewpider
+      - "752"
+      - Dewpider
+      - dupider
+      - dupader
+    "753":
+      synonyms:
+      - Araquanid
+      - "753"
+      - Araquanid
+      - aracuanid
+    "754":
+      synonyms:
+      - Fomantis
+      - "754"
+      - Fomantis
+      - fourmantis
+    "755":
+      synonyms:
+      - Lurantis
+      - "755"
+      - Lurantis
+    "756":
+      synonyms:
+      - Morelull
+      - "756"
+      - Morelull
+      - morlul
+    "757":
+      synonyms:
+      - Shiinotic
+      - "757"
+      - Shiinotic
+      - sinotic
+    "758":
+      synonyms:
+      - Salandit
+      - "758"
+      - Salandit
+    "759":
+      synonyms:
+      - Salazzle
+      - "759"
+      - Salazzle
+      - salasel
+    "760":
+      synonyms:
+      - Stufful
+      - "760"
+      - estuful
+      - estafel
+      - estaful
+    "761":
+      synonyms:
+      - Bewear
+      - "761"
+      - Bewear
+      - bewer
+      - biwer
+    "762":
+      synonyms:
+      - Bounsweet
+      - "762"
+      - Bounsweet
+      - baunsuit
+    "763":
+      synonyms:
+      - Steenee
+      - "763"
+      - Steenee
+      - estini
+    "764":
+      synonyms:
+      - Tsareena
+      - "764"
+      - Tsareena
+      - tsarina
+    "765":
+      synonyms:
+      - Comfey
+      - "765"
+      - Comfey
+      - comfi
+      - camfi
+    "766":
+      synonyms:
+      - Oranguru
+      - "766"
+      - Oranguru
+    "767":
+      synonyms:
+      - Passimian
+      - "767"
+      - Passimian
+    "768":
+      synonyms:
+      - Wimpod
+      - "768"
+      - Wimpod
+      - viumpod
+    "769":
+      synonyms:
+      - Golisopod
+      - "769"
+      - Golisopod
+      - golaisoupod
+    "770":
+      synonyms:
+      - Sandygast
+      - "770"
+      - Sandygast
+      - sandigast
+    "771":
+      synonyms:
+      - Palossand
+      - "771"
+      - Palossand
+    "772":
+      synonyms:
+      - Pyukumuku
+      - "772"
+      - Pyukumuku
+      - piukumuku
+    "773":
+      synonyms:
+      - 'Type: Null'
+      - "773"
+      - 'Type: Null'
+      - taip nul
+      - taipnul
+    "774":
+      synonyms:
+      - Silvally
+      - "774"
+      - Silvally
+      - silvali
+    "775":
+      synonyms:
+      - Minior
+      - "775"
+      - Minior
+    "776":
+      synonyms:
+      - Komala
+      - "776"
+      - Komala
+      - koumala
+      - coumala
+    "777":
+      synonyms:
+      - Turtonator
+      - "777"
+      - Turtonator
+      - tartuneitor
+      - turtoneitor
+    "778":
+      synonyms:
+      - Togedemaru
+      - "778"
+      - Togedemaru
+      - touguedemaru
+    "779":
+      synonyms:
+      - Mimikyu
+      - "779"
+      - Mimikyu
+      - mimikllu
+    "780":
+      synonyms:
+      - Bruxish
+      - "780"
+      - Bruxish
+      - braksis
+      - bruksis
+    "781":
+      synonyms:
+      - Drampa
+      - "781"
+      - Drampa
+    "782":
+      synonyms:
+      - Dhelmise
+      - "782"
+      - Dhelmise
+      - delmais
+      - delmise
+    "783":
+      synonyms:
+      - Jangmo-o
+      - "783"
+      - Jangmo-o
+      - llangmouou
+      - llangmou ou
+    "784":
+      synonyms:
+      - Hakamo-o
+      - "784"
+      - Hakamo-o
+      - akamou ou
+      - akamouou
+    "785":
+      synonyms:
+      - Kommo-o
+      - "785"
+      - Kommo-o
+      - kounmou ou
+      - kounmouou
+    "786":
+      synonyms:
+      - Tapu Koko
+      - "786"
+      - Tapu Koko
+      - tapu koukou
+      - tapukoukou
+    "787":
+      synonyms:
+      - Tapu Lele
+      - "787"
+      - Tapu Lele
+      - tapu leilei
+      - tapuleilei
+    "788":
+      synonyms:
+      - Tapu Bulu
+      - "788"
+      - Tapu Bulu
+    "789":
+      synonyms:
+      - Tapu Fini
+      - "789"
+      - Tapu Fini
+    "790":
+      synonyms:
+      - Cosmog
+      - "790"
+      - Cosmog
+    "791":
+      synonyms:
+      - Cosmoem
+      - "791"
+      - Cosmoem
+      - cosmouem
+    "792":
+      synonyms:
+      - Solgaleo
+      - "792"
+      - Solgaleo
+      - soulgaleou
+    "793":
+      synonyms:
+      - Lunala
+      - "793"
+      - Lunala
+    "794":
+      synonyms:
+      - Nihilego
+      - "794"
+      - nilego
+      - nailigou
+      - nilegou
+    "795":
+      synonyms:
+      - Buzzwole
+      - "795"
+      - Buzzwole
+      - basvuol
+      - bazvuol
+    "796":
+      synonyms:
+      - Pheromosa
+      - "796"
+      - Pheromosa
+      - feromosa
+      - feremousa
+    "797":
+      synonyms:
+      - Xurkitree
+      - "797"
+      - Xurkitree
+      - churkitri
+      - charkitri
+    "798":
+      synonyms:
+      - Celesteela
+      - "798"
+      - Celesteela
+      - celestila
+      - selestila
+    "799":
+      synonyms:
+      - Kartana
+      - "799"
+      - Kartana
+    "800":
+      synonyms:
+      - Guzzlord
+      - "800"
+      - Guzzlord
+      - gaslord
+      - guslord
+    "801":
+      synonyms:
+      - Necrozma
+      - "801"
+      - Necrozma
+      - necrouzma
+    "802":
+      synonyms:
+      - Magearna
+      - "802"
+      - Magearna
+      - meguirna
+      - megirna
+    "803":
+      synonyms:
+      - Marshadow
+      - "803"
+      - Marshadow
+      - marsadou
+    "804":
+      synonyms:
+      - Poipole
+      - "804"
+      - Poipole
+      - poipol
+    "805":
+      synonyms:
+      - Naganadel
+      - "805"
+      - Naganadel
+    "806":
+      synonyms:
+      - Stakataka
+      - "806"
+      - Stakataka
+      - estakataka
+      - estaka taka
+    "807":
+      synonyms:
+      - Blacephalon
+      - "807"
+      - Blacephalon
+      - bleisefalon
+      - bleisfelon
+    "808":
+      synonyms:
+      - Zeraora
+      - "808"
+      - Zeraora
+      - seraora
+    "809":
+      synonyms:
+      - Meltan
+      - "809"
+      - Meltan
+    "810":
+      synonyms:
+      - Melmetal
+      - "810"
+      - Melmetal
+  matchType: EXACT_MATCH
