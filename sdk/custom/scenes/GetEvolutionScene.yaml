@@ -1,7 +1,14 @@
-onSlotUpdated:
-  webhookHandler: GetEvolutionHandler
 slots:
 - name: pokemon
   required: true
   type:
     name: pokemon
+- commitBehavior:
+    writeSessionParam: prompt_option
+  name: prompt_option
+  promptSettings:
+    initialPrompt:
+      webhookHandler: GetEvolutionHandler
+  required: true
+  type:
+    name: prompt_option

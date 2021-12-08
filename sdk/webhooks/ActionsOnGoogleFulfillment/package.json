@@ -4,10 +4,6 @@
   "private": true,
   "description": "Google Action Pokemundo.",
   "main": "index.js",
-  "scripts": {
-    "lint": "eslint \"**/*.js\"",
-    "lint:fix": "eslint --fix \"**/*.js\""
-  },
   "engines": {
     "node": ">=10"
   },
@@ -16,9 +12,5 @@
     "axios": "^0.24.0",
     "firebase-admin": "~8.12.1",
     "firebase-functions": "^3.6.2"
-  },
-  "devDependencies": {
-    "eslint": "^5.2.0",
-    "eslint-config-google": "^0.9.1"
   }
 }

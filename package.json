@@ -1,0 +1,19 @@
+
+{
+    "name": "google-action-pokemundo",
+    "version": "1.0.0",
+    "private": true,
+    "description": "Google Action Pokemundo.",
+    "engines": {
+      "node": ">=10"
+    },
+    "scripts": {
+      "lint": "eslint \"**/*.js\"",
+      "lint:fix": "eslint --fix \"**/*.js\"",
+      "local": "firebase emulators:start --inspect-functions"
+    },
+    "devDependencies": {
+      "eslint": "^5.2.0",
+      "eslint-config-google": "^0.9.1"
+    }
+  }
