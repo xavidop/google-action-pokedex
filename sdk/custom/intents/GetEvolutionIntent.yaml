@@ -1,0 +1,9 @@
+parameters:
+- name: pokemon
+  type:
+    name: pokemon
+trainingPhrases:
+- Dime la evolución de ($pokemon 'pikachu' auto=false)
+- en quién evoluciona ($pokemon 'pikachu' auto=false)
+- quién es la evolución de ($pokemon 'pikachu' auto=false)
+- evolución de ($pokemon 'pikachu' auto=false)

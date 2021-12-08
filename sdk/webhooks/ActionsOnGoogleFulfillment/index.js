@@ -75,6 +75,12 @@
  }
  
  const app = conversation({debug: true});
+
+
+ app.handle('GetEvolutionHandler', async (conv) => {
+
+  conv.overwrite = true;
+});
  
  app.handle('GetInfoHandler', async (conv) => {
    const pokemon = conv.intent.params.pokemon.resolved;

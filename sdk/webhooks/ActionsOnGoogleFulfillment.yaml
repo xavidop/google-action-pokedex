@@ -1,4 +1,5 @@
 handlers:
 - name: GetInfoHandler
+- name: GetEvolutionHandler
 inlineCloudFunction:
   executeFunction: ActionsOnGoogleFulfillment
