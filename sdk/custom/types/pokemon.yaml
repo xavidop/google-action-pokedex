@@ -1,4 +1,5 @@
 synonym:
+  acceptUnknownValues: true
   entities:
     "2":
       synonyms:

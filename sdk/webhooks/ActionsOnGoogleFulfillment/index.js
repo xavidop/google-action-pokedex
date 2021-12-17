@@ -106,7 +106,9 @@ async function makeRequest(url) {
  */
 async function getPokemonEvolutions(evolutionChainUrl) {
   let evolutionChain = await makeRequest(evolutionChainUrl);
-  return [].concat(...getPokemonEvolution(evolutionChain.data.chain.evolves_to));
+  return [].concat(
+    ...getPokemonEvolution(evolutionChain.data.chain.evolves_to)
+  );
 }
 
 /**
@@ -136,7 +138,9 @@ function capitalize(word) {
   return word[0].toUpperCase() + word.substring(1).toLowerCase();
 }
 
-const app = conversation({debug: true});
+const app = conversation({
+  debug: true,
+});
 
 /**
  * Capitalizes a string
@@ -206,130 +210,156 @@ app.handle('option', async (conv) => {
   const pokemonId = p.data.id;
   const pokemonIdString = String(pokemonId).padStart(3, '0');
 
-
   const specie = await getPokemonSpecie(pokemonId);
-
 
   await showInforForOnePokemon(conv, specie, p, pokemonIdString, locale);
 });
 
 app.handle('GetEvolutionHandler', async (conv) => {
   const pokemon = conv.intent.params.pokemon.resolved;
+  const pokemonOriginal = conv.intent.params.pokemon.original;
+  console.log('Resolved ' + conv.intent.params.pokemon.resolved);
+  console.log('Original ' + conv.intent.params.pokemon.original);
   const pokemonId = pokemon - 1;
   const locale = conv.user.locale;
 
-  const pokemonIdString = String(pokemonId).padStart(3, '0');
-  // const locale = conv.user.locale;
+  if (pokemon != pokemonOriginal) {
+    const pokemonIdString = String(pokemonId).padStart(3, '0');
+    // const locale = conv.user.locale;
 
-  // const pokemonIdString = String(pokemonId).padStart(3, '0');
-  const p = await getPokemon(pokemonId);
+    // const pokemonIdString = String(pokemonId).padStart(3, '0');
+    const p = await getPokemon(pokemonId);
 
-  const specie = await getPokemonSpecie(pokemonId);
+    const specie = await getPokemonSpecie(pokemonId);
 
-  let evolutions = await getPokemonEvolutions(specie.data.evolution_chain.url);
-
-  if (evolutions.length == 1) {
-    const pEvolution = await getPokemon(evolutions[0]);
-
-    const specieEvolution = await getPokemonSpecie(evolutions[0]);
-    await showInforForOnePokemon(
-      conv,
-      specieEvolution,
-      pEvolution,
-      pokemonIdString,
-      locale
+    let evolutions = await getPokemonEvolutions(
+      specie.data.evolution_chain.url
     );
-    conv.add(
-      new Simple({
-        speech: capitalize(p.data.species.name)+' Solo tiene una evolucion: ' + capitalize(pEvolution.data.species.name),
-        text: 'Información sobre ' + capitalize(pEvolution.data.species.name),
-      })
-    );
-    return;
-  } else if (evolutions.length > 1) {
-    let evolutionsItems = [];
-    let evolutionsKeys = [];
 
-    for (let index = 0; index < evolutions.length; index++) {
-      let element = evolutions[index];
-      let pItem = await getPokemon(element);
-      const pokemonIdStringItem = String(pItem.data.id).padStart(3, '0');
-      const specieItem = await getPokemonSpecie(element);
-      const descriptionStringItem = getPokemonDescription(
-        specieItem.data.flavor_text_entries,
+    if (evolutions.length == 1) {
+      const pEvolution = await getPokemon(evolutions[0]);
+
+      const specieEvolution = await getPokemonSpecie(evolutions[0]);
+      await showInforForOnePokemon(
+        conv,
+        specieEvolution,
+        pEvolution,
+        pokemonIdString,
         locale
       );
+      conv.add(
+        new Simple({
+          speech:
+            capitalize(p.data.species.name) +
+            ' Solo tiene una evolucion: ' +
+            capitalize(pEvolution.data.species.name),
+          text: 'Información sobre ' + capitalize(pEvolution.data.species.name),
+        })
+      );
+      return;
+    } else if (evolutions.length > 1) {
+      let evolutionsItems = [];
+      let evolutionsKeys = [];
 
-      evolutionsItems[index] = {
-        name: element,
-        synonyms: ['Item ' + index, element],
-        display: {
-          title: capitalize(element),
-          description: descriptionStringItem,
-          image: new Image({
-            url: 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/' +
-            pokemonIdStringItem +
-            '.png',
-            alt: capitalize(element),
-          }),
+      for (let index = 0; index < evolutions.length; index++) {
+        let element = evolutions[index];
+        let pItem = await getPokemon(element);
+        const pokemonIdStringItem = String(pItem.data.id).padStart(3, '0');
+        const specieItem = await getPokemonSpecie(element);
+        const descriptionStringItem = getPokemonDescription(
+          specieItem.data.flavor_text_entries,
+          locale
+        );
+
+        evolutionsItems[index] = {
+          name: element,
+          synonyms: ['Item ' + index, element],
+          display: {
+            title: capitalize(element),
+            description: descriptionStringItem,
+            image: new Image({
+              url:
+                'https://assets.pokemon.com/assets/cms2/img/pokedex/full/' +
+                pokemonIdStringItem +
+                '.png',
+              alt: capitalize(element),
+            }),
+          },
+        };
+        evolutionsKeys[index] = {
+          key: element,
+        };
+      }
+
+      conv.session.typeOverrides = [
+        {
+          name: 'prompt_option',
+          mode: 'TYPE_REPLACE',
+          synonym: {
+            entries: evolutionsItems,
+          },
         },
-      };
-      evolutionsKeys[index] = {
-        key: element,
-      };
+      ];
+
+      // Define prompt content using keys
+      conv.add(
+        new Collection({
+          title: 'Evoluciones',
+          subtitle: 'Collection subtitle',
+          items: evolutionsKeys,
+        })
+      );
+    } else {
+      conv.add(
+        new Simple({
+          speech: 'Este pokemon no tiene evoluciones',
+          text: 'Información sobre ' + capitalize(p.data.species.name),
+        })
+      );
+      await showInforForOnePokemon(conv, specie, p, pokemonIdString, locale);
+      return;
     }
 
-    conv.session.typeOverrides = [
-      {
-        name: 'prompt_option',
-        mode: 'TYPE_REPLACE',
-        synonym: {
-          entries: evolutionsItems,
-        },
-      },
-    ];
-
-    // Define prompt content using keys
     conv.add(
-      new Collection({
-        title: 'Evoluciones',
-        subtitle: 'Collection subtitle',
-        items: evolutionsKeys,
+      new Simple({
+        speech: 'Las evoluciones son ' + evolutions.join(', '),
+        text: 'Información sobre ' + capitalize(p.data.species.name),
       })
     );
   } else {
     conv.add(
       new Simple({
-        speech: 'Este pokemon no tiene evoluciones',
-        text: 'Información sobre ' + capitalize(p.data.species.name),
+        speech: 'Perdona, no te he entendido, ¿Puedes volver a intentarlo?',
+        text: 'Perdona, no te he entendido, ¿Puedes volver a intentarlo?',
       })
     );
-    await showInforForOnePokemon(conv, specie, p, pokemonIdString, locale);
-    return;
   }
-
-  conv.add(
-    new Simple({
-      speech: 'Las evoluciones son ' + evolutions.join(', '),
-      text: 'Información sobre ' + capitalize(p.data.species.name),
-    })
-  );
 
   conv.overwrite = true;
 });
 
 app.handle('GetInfoHandler', async (conv) => {
   const pokemon = conv.intent.params.pokemon.resolved;
+  const pokemonOriginal = conv.intent.params.pokemon.original;
+
   const pokemonId = pokemon - 1;
   const locale = conv.user.locale;
+  if (pokemon != pokemonOriginal) {
+    const pokemonIdString = String(pokemonId).padStart(3, '0');
 
-  const pokemonIdString = String(pokemonId).padStart(3, '0');
+    const p = await getPokemon(pokemonId);
 
-  const p = await getPokemon(pokemonId);
+    const specie = await getPokemonSpecie(pokemonId);
 
-  const specie = await getPokemonSpecie(pokemonId);
-
-  await showInforForOnePokemon(conv, specie, p, pokemonIdString, locale);
+    await showInforForOnePokemon(conv, specie, p, pokemonIdString, locale);
+  } else {
+    conv.add(
+      new Simple({
+        speech: 'Perdona, no te he entendido, ¿Puedes volver a intentarlo?',
+        text: 'Perdona, no te he entendido, ¿Puedes volver a intentarlo?',
+      })
+    );
+  }
 
   conv.overwrite = true;
 });

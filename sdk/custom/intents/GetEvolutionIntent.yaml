@@ -7,3 +7,5 @@ trainingPhrases:
 - en quién evoluciona ($pokemon 'pikachu' auto=false)
 - quién es la evolución de ($pokemon 'pikachu' auto=false)
 - evolución de ($pokemon 'pikachu' auto=false)
+- evolucion de ($pokemon 'pikachu' auto=false)
+- evoluciones de ($pokemon 'pikachu' auto=false)
