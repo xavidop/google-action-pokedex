@@ -1,3 +1,6 @@
 custom:
   GetInfoIntent: {}
-  actions.intent.MAIN: {}
+  actions.intent.MAIN:
+    engagement:
+      assistantLink:
+        title: actions.intent.MAIN
