@@ -2,9 +2,9 @@
   "functions": {
     "source": "sdk/webhooks/ActionsOnGoogleFulfillment"
   },
-    "emulators": {
-      "functions": {
-        "port": 5001
-      }
+  "emulators": {
+    "functions": {
+      "port": 5001
     }
   }
+}
