@@ -198,7 +198,7 @@ This is the console output:
 **NOTE:** make sure you specified your current project to the one that you are working on by running `firebase use <YOUR_PROJECT_ID>`
 
 
-You can access to the Firebase Simulator UI locally here: `http://localhost:4001/`:
+You can access to the Firebase Emulator UI locally here: `http://localhost:4001/`:
 
 ![image](img/firebase-simulator.png)
 
