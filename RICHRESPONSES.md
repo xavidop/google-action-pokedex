@@ -1,6 +1,6 @@
 # Multimodal Design with Google Actions: Rich Responses using Cards
 
-Creating conversations is a really hard task. This is an entire design process that can take a lot of time. In terms of Voice Assistant, this process is even more complex due to the ability to interact with the user using sound and a display. When you mix those 2 interactions, you are creating a multimodal experience.
+Creating conversations is a really hard task. This is an entire design process that can take a lot of time. In terms of voice assistants, this process is even more complex due to the ability to interact with the user using sound and a display. When you mix those 2 interactions, you are creating a multimodal experience.
 
 In this article, we will learn how to create engaging conversations using multimodality in our Google Action thanks to its Rich Responses using Cards.
 
@@ -25,7 +25,7 @@ We will use this powerful tool to create, build, deploy and manage our Google Ac
 
 The scenario that we want to create is when a user request information about a pokemon, we can show that information using multimodality. How?
 1. First, what we are going to tell the user, using voice/sound is the full explanation of the Pokemon requested.
-2. Second, thanks to a display, we will show to the user some extra information about this Pokemon like its type, image, description and a link that the user can click and search for more information about this Pokemon.
+2. Second, thanks to a display, we will show the user some extra information about this Pokemon like its type, image, description and a link that the user can click and search for more information about this Pokemon.
 
 Here it is important to balance the information that we are going to tell/show to our users to not lose them. For example, a good practice is to show on the display just extra information or a summary of what you are telling using voice. It is better to use the display as a platform to help/guide the users rather than confuse them.
 
@@ -36,7 +36,7 @@ Also, it is important to notice here that not all users have a Smart Speaker wit
 ## Google Actions and Rich Responses
 
 Google Assistant and its Google Actions have multiple ways to create visual responses. In this article, we are going to talk about Rich Responses. These are the available ones:
-1. Basic Card: With these cards, you will show to the user a summary of the information, some extra/additional information or more specific information. Using these cards, you can show the user an image, title, subtitle, a little text and a button with a link. The link is not available on Smart Speakers.
+1. Basic Card: With these cards, you will show the user a summary of the information, some extra/additional information or more specific information. Using these cards, you can show the user an image, title, subtitle, a little text and a button with a link. The link is not available on Smart Speakers.
 2. Image Card: This card is simpler than the Basic Card. You can just show an image here.
 3. Table Card: This Card is used to present a table on a display.
 
@@ -234,8 +234,8 @@ And this will be the result on mobile with the `Link` button:
 
 ## Conclusion 
 
-This was a basic tutorial to learn how to create multimodal experience using Google Actions.
-As you have seen in this example, the Google Actions SDK help us a lot while we are developing our Google Actions.
+This was a basic tutorial to learn how to create a multimodal experience using Google Actions.
+As you have seen in this example, the Google Actions SDK helps us a lot while we are developing our Google Actions.
 I hope this example project is useful to you.
 
 That's all folks!
