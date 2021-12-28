@@ -205,7 +205,7 @@ You can access to the Firebase Emulator UI locally here: `http://localhost:4001/
 
 ### Attaching the debugger
 
-The step above just executes the Firebase Cloud Function locally. This is not enough, we will need to attach to the node process in order to be able to set up breakpoints and inspct the nodeJS code.
+The step above just executes the Firebase Cloud Function locally. This is not enough, we will need to attach to the node process in order to be able to set up breakpoints and inspect the nodeJS code.
 
 The `launch.json` file in `.vscode` folder has the configuration for Visual Studio Code which allow us to attach to the node process:
 

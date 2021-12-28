@@ -144,11 +144,11 @@ const app = conversation({
 
 /**
  * Capitalizes a string
- * @param {string} conv The string to capitalize.
- * @param {string} specie The string to capitalize.
- * @param {string} pokemon The string to capitalize.
- * @param {string} pokemonIdString The string to capitalize.
- * @param {string} locale The string to capitalize.
+ * @param {string} conv The conversation object.
+ * @param {string} specie The Specie of the Pokemon for PokeAPI.
+ * @param {string} pokemon The pokemon object from PokeAPI.
+ * @param {string} pokemonIdString The Pokemon Id in string format.
+ * @param {string} locale The locale of the user.
  */
 async function showInforForOnePokemon(
   conv,
@@ -345,7 +345,7 @@ app.handle('GetInfoHandler', async (conv) => {
   const pokemonId = pokemon - 1;
   const locale = conv.user.locale;
   if (pokemon != pokemonOriginal) {
-    const pokemonIdString = String(pokemonId).padStart(3, '0');
+    const pokemonIdString = String(pokemonId).padStart(3, '0'); // It sets 3 to 003 or 25 to 025
 
     const p = await getPokemon(pokemonId);
 
