@@ -237,6 +237,7 @@ app.handle('GetEvolutionHandler', async (conv) => {
     );
 
     if (evolutions.length == 1) {
+      // one evolution
       const pEvolution = await getPokemon(evolutions[0]);
 
       const specieEvolution = await getPokemonSpecie(evolutions[0]);
@@ -258,6 +259,7 @@ app.handle('GetEvolutionHandler', async (conv) => {
       );
       return;
     } else if (evolutions.length > 1) {
+      // more than one evolution
       let evolutionsItems = [];
       let evolutionsKeys = [];
 
@@ -310,6 +312,7 @@ app.handle('GetEvolutionHandler', async (conv) => {
         })
       );
     } else {
+      // No evolutions
       conv.add(
         new Simple({
           speech: 'Este pokemon no tiene evoluciones',

@@ -1,5 +1,18 @@
 # Multimodal Design with Google Actions: Rich Responses using Cards
 
+<!-- TOC -->
+
+- [Multimodal Design with Google Actions: Rich Responses using Cards](#multimodal-design-with-google-actions-rich-responses-using-cards)
+  - [Prerequisites](#prerequisites)
+  - [Use Case](#use-case)
+  - [Google Actions and Rich Responses](#google-actions-and-rich-responses)
+  - [Rich Responses on our Firebase Cloud Function](#rich-responses-on-our-firebase-cloud-function)
+    - [Result](#result)
+  - [Resources](#resources)
+  - [Conclusion](#conclusion)
+
+<!-- /TOC -->
+
 Creating conversations is a really hard task. This is an entire design process that can take a lot of time. In terms of voice assistants, this process is even more complex due to the ability to interact with the user using sound and a display. When you mix those 2 interactions, you are creating a multimodal experience.
 
 In this article, we will learn how to create engaging conversations using multimodality in our Google Action thanks to its Rich Responses using Cards.
