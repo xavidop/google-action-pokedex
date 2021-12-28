@@ -234,8 +234,8 @@ And this will be the result on mobile with the `Link` button:
 
 ## Conclusion 
 
-This was a basic tutorial to learn how to develop Google Actions locally.
-As you have seen in this example, the gactions CLI and the Firebase CLI can help us while we are developing.
+This was a basic tutorial to learn how to create multimodal experience using Google Actions.
+As you have seen in this example, the Google Actions SDK help us a lot while we are developing our Google Actions.
 I hope this example project is useful to you.
 
 That's all folks!
