@@ -4,4 +4,11 @@ onEnter:
     - promptResponse:
         firstSimple:
           variants:
-          - speech: Hola Bienvenido a pokemundo!
+          - speech: 'Hola Bienvenido a pokemundo! Puedes pedir las evoluciones de
+              cualquier pokemon o directamente pedir información de tu pokemon favorito. '
+          - speech: Bienvenido, entrenador! Puedes pedir las evoluciones de cualquier
+              pokemon o directamente pedir información de tu pokemon favorito.
+        lastSimple:
+          variants:
+          - speech: Puedes pedir ayuda en cualquier momento.
+          - speech: Consulta las diferentes opciones pidiendo ayuda en cualquier momento.

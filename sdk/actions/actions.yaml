@@ -1,5 +1,6 @@
 custom:
   GetInfoIntent: {}
+  HelpIntent: {}
   actions.intent.MAIN:
     engagement:
       assistantLink:

@@ -2,6 +2,16 @@ conditionalEvents:
 - condition: scene.slots.status == "FINAL"
   handler:
     webhookHandler: option
+intentEvents:
+- handler:
+    staticPrompt:
+      candidates:
+      - promptResponse:
+          firstSimple:
+            variants:
+            - speech: Puedes preguntarme por las evoluciones de cualquier pokemon,
+                por ejemplo, de pikachu.
+  intent: HelpIntent
 slots:
 - name: pokemon
   required: true
